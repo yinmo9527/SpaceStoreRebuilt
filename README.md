@@ -20,14 +20,44 @@
 - **不炸存档**：单一金币账本，旧版 `StoreData` 余额自动迁移；旧 `store_*.json` / `sell_*.json` 原样可用。
 - **少踩坑**：只保留 4 个稳定的 Harmony 补丁，可回收组件改成 prefab 扫描注入，游戏更新不容易整个 mod 挂掉。
 
-## 安装（三步）
+## 安装（给使用者）
 
-1. 订阅 **PLib**（任意自带 `PLib.dll` 的 mod 均可，本机是随 `Element Capture Capsule` 一起提供的）。
-2. 把 `SpaceStoreRebuilt.dll`、`mod.yaml`、`mod_info.yaml`、`translations/`、`anim/` 放进
-   `文档\Klei\OxygenNotIncluded\mods\local\SpaceStoreRebuilt\`。
-3. 游戏「模组」菜单勾选 **Space Store 太空商店 重构版**，重启。
+**前置**：游戏本体；任意一个自带 `PLib.dll` 的 mod（PLib 是界面依赖，没有它本 mod 不会加载）。
 
-自己编译见第 7 节；**订阅了工坊 `3215097987` / `3231852237` 的请先关掉**，两者会抢同一套工具栏和配置目录。
+### 方式 A：下载现成包（推荐，不用装开发工具）
+
+1. 到 [Releases](../../releases) 下载 `SpaceStoreRebuilt-v2.2.0.zip`。
+2. 解压，把里面的 `SpaceStoreRebuilt` 整个文件夹放到
+   `文档\Klei\OxygenNotIncluded\mods\local\`。
+3. 确认 PLib 处于启用状态。
+4. 启动游戏 →「模组」→ 勾选 **Space Store 太空商店 重构版** → 重启游戏。
+
+最终目录必须长这样，层级错了游戏读不到：
+
+```
+mods\local\SpaceStoreRebuilt\
+├─ SpaceStoreRebuilt.dll
+├─ mod.yaml
+├─ mod_info.yaml
+├─ translations\zh.po
+└─ anim\assets\geo_seed\...
+```
+
+### 方式 B：从源码编译
+
+见第 7 节。需要 .NET SDK 或 Visual Studio，编译后会自动铺到同一个目录。
+
+### 更新 / 卸载
+
+- 更新：关游戏，用新包覆盖同名文件夹；`mods\spacestore\` 里的个人商店配置不会被覆盖。
+- 卸载：删掉 `mods\local\SpaceStoreRebuilt` 文件夹，或在模组菜单取消勾选。
+
+### 装完没生效？按这个顺序查
+
+1. 模组列表里**根本没有这一项**——多半是目录层级不对，常见错误是把 dll 直接丢进 `mods\local`。
+2. **有这一项但进游戏没按钮**——PLib 没启用，这是最常见的原因。
+3. 工坊的 `3215097987`、`3231852237` 是否还开着，它们会抢同一套工具栏和 `mods\spacestore` 配置目录。
+4. 仍然不行，看 `文档\Klei\OxygenNotIncluded\Player.log`，搜 `Space Store`。
 
 > 说明：已在 2026-11-01 用 **.NET SDK 8.0.404**（用户级安装，`%USERPROFILE%\.dotnet`）
 > 对本机游戏程序集**实际编译通过**（`net48`，0 error）。产物已部署到
