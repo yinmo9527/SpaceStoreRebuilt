@@ -1,0 +1,114 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>SpaceStoreRebuilt</AssemblyName>
+    <RootNamespace>SpaceStore</RootNamespace>
+    <LangVersion>9.0</LangVersion>
+    <Version>2.2.0</Version>
+    <AssemblyTitle>Space Store Rebuilt</AssemblyTitle>
+    <Description>Space Store 太空商店 重构版（商店 + 回收 + 地质种子）</Description>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <!-- Unity 模组不要带 PDB/依赖进来，保持输出目录干净 -->
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <!-- 三个路径按需覆盖：dotnet build -p:ONIGameDir="C:\Program Files (x86)\Steam\..." -->
+  <PropertyGroup>
+    <ONIGameDir Condition="'$(ONIGameDir)' == ''">C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded</ONIGameDir>
+    <ManagedDir>$(ONIGameDir)\OxygenNotIncluded_Data\Managed</ManagedDir>
+    <PLibDll Condition="'$(PLibDll)' == ''">$(USERPROFILE)\Documents\Klei\OxygenNotIncluded\mods\Steam\2781902332\PLib.dll</PLibDll>
+    <DeployDir Condition="'$(DeployDir)' == ''">$(USERPROFILE)\Documents\Klei\OxygenNotIncluded\mods\local\SpaceStoreRebuilt</DeployDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(ManagedDir)\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>$(ManagedDir)\Assembly-CSharp-firstpass.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>$(ManagedDir)\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(ManagedDir)\Newtonsoft.Json.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(ManagedDir)\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(ManagedDir)\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>$(ManagedDir)\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="FMODUnity">
+      <HintPath>$(ManagedDir)\FMODUnity.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(ManagedDir)\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(ManagedDir)\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="PLib">
+      <HintPath>$(PLibDll)</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- 资源名 = RootNamespace + 路径，所以是 SpaceStore.config.store_default.json -->
+  <ItemGroup>
+    <None Remove="config\store_default.json" />
+    <None Remove="config\sell_default.json" />
+    <None Remove="images\coin.png" />
+    <None Remove="images\icon_space_store.png" />
+    <EmbeddedResource Include="config\store_default.json" />
+    <EmbeddedResource Include="config\sell_default.json" />
+    <EmbeddedResource Include="images\coin.png" />
+    <EmbeddedResource Include="images\icon_space_store.png" />
+  </ItemGroup>
+
+  <!-- Update 而不是 Include：这些文件已经被默认 glob 收录，重复 Include 会报 NETSDK1022 -->
+  <ItemGroup>
+    <None Update="mod.yaml" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="mod_info.yaml" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="translations\**\*" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="anim\**\*" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <!-- 编译完直接铺到本地 mods 目录，目录层级必须和游戏期望的一致：
+       <mod>/mod.yaml、<mod>/translations/*.po、<mod>/anim/assets/... -->
+  <Target Name="DeployToGame" AfterTargets="Build">
+    <ItemGroup>
+      <DeployRoot Include="$(TargetDir)$(AssemblyName).dll" />
+      <DeployRoot Include="$(TargetDir)mod.yaml" />
+      <DeployRoot Include="$(TargetDir)mod_info.yaml" />
+      <DeployTranslations Include="$(TargetDir)translations\**\*" />
+      <DeployAnim Include="$(TargetDir)anim\**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(DeployRoot)" DestinationFolder="$(DeployDir)" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(DeployTranslations)" DestinationFolder="$(DeployDir)\translations"
+          SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(DeployAnim)" DestinationFolder="$(DeployDir)\anim\%(RecursiveDir)"
+          SkipUnchangedFiles="true" />
+    <Message Importance="high" Text="已部署到 $(DeployDir)" />
+  </Target>
+
+</Project>

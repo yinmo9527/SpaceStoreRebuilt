@@ -1,0 +1,1902 @@
+[
+ {
+  "id": "BasicFabricMaterialPlantSeed",
+  "cat": "seed",
+  "name": "Thimble Reed Seed"
+ },
+ {
+  "id": "BasicSingleHarvestPlantSeed",
+  "cat": "seed",
+  "name": "Mealwood Seed"
+ },
+ {
+  "id": "BeanPlantSeed",
+  "cat": "seed",
+  "name": "Nosh Bean"
+ },
+ {
+  "id": "BlueGrassSeed",
+  "cat": "seed",
+  "name": "Alveo Vera Seed"
+ },
+ {
+  "id": "BulbloomSeed",
+  "cat": "seed",
+  "name": "Bulbloom Seed"
+ },
+ {
+  "id": "BulbPlantSeed",
+  "cat": "seed",
+  "name": "Buddy Bud Seed"
+ },
+ {
+  "id": "CactusPlantSeed",
+  "cat": "seed",
+  "name": "Joya Seed"
+ },
+ {
+  "id": "CarrotPlantSeed",
+  "cat": "seed",
+  "name": "Plume Squash Seed"
+ },
+ {
+  "id": "ClamSeed",
+  "cat": "seed",
+  "name": "Clampum Seed"
+ },
+ {
+  "id": "ColdBreatherSeed",
+  "cat": "seed",
+  "name": "Wort Seed"
+ },
+ {
+  "id": "ColdWheatSeed",
+  "cat": "seed",
+  "name": "Sleet Wheat Grain"
+ },
+ {
+  "id": "CritterTrapPlantSeed",
+  "cat": "seed",
+  "name": "Saturn Critter Trap Seed"
+ },
+ {
+  "id": "CylindricaSeed",
+  "cat": "seed",
+  "name": "Bliss Burst Seed"
+ },
+ {
+  "id": "DewDripperPlantSeed",
+  "cat": "seed",
+  "name": "Dew Seed"
+ },
+ {
+  "id": "DewPalmSeed",
+  "cat": "seed",
+  "name": "Gum Palm Seed"
+ },
+ {
+  "id": "DinofernSeed",
+  "cat": "seed",
+  "name": "Megafrond Spore"
+ },
+ {
+  "id": "EvilFlowerSeed",
+  "cat": "seed",
+  "name": "Sporechid Seed"
+ },
+ {
+  "id": "FilamentPlantSeed",
+  "cat": "seed",
+  "name": "Petta Pouf Seed"
+ },
+ {
+  "id": "FilterPlantSeed",
+  "cat": "seed",
+  "name": "Hydrocactus Seed"
+ },
+ {
+  "id": "FlyTrapPlantSeed",
+  "cat": "seed",
+  "name": "Lura Seed"
+ },
+ {
+  "id": "GardenDecorPlantSeed",
+  "cat": "seed",
+  "name": "Rosebush Seed"
+ },
+ {
+  "id": "GardenFoodPlantSeed",
+  "cat": "seed",
+  "name": "Sweatcorn Seed"
+ },
+ {
+  "id": "GasGrassSeed",
+  "cat": "seed",
+  "name": "Gas Grass Seed"
+ },
+ {
+  "id": "HardSkinBerryPlantSeed",
+  "cat": "seed",
+  "name": "Pikeapple Bush Seed"
+ },
+ {
+  "id": "IceFlowerSeed",
+  "cat": "seed",
+  "name": "Idylla Seed"
+ },
+ {
+  "id": "KelpPlantSeed",
+  "cat": "seed",
+  "name": "Seakomb Seed"
+ },
+ {
+  "id": "LeafyPlantSeed",
+  "cat": "seed",
+  "name": "Mirth Leaf Seed"
+ },
+ {
+  "id": "OxyCoralSeed",
+  "cat": "seed",
+  "name": "Flue Coral Seed"
+ },
+ {
+  "id": "OxyfernSeed",
+  "cat": "seed",
+  "name": "Oxyfern Seed"
+ },
+ {
+  "id": "PlanktonCoralSeed",
+  "cat": "seed",
+  "name": "Starnacle Seed"
+ },
+ {
+  "id": "PrickleFlowerSeed",
+  "cat": "seed",
+  "name": "Blossom Seed"
+ },
+ {
+  "id": "PrickleGrassSeed",
+  "cat": "seed",
+  "name": "Briar Seed"
+ },
+ {
+  "id": "SaltPlantSeed",
+  "cat": "seed",
+  "name": "Dasha Saltvine Seed"
+ },
+ {
+  "id": "SaltySticksPlantSeed",
+  "cat": "seed",
+  "name": "Sodicane Seed"
+ },
+ {
+  "id": "SeaLettuceSeed",
+  "cat": "seed",
+  "name": "Waterweed Seed"
+ },
+ {
+  "id": "SeaTreeSeed",
+  "cat": "seed",
+  "name": "Tower Kelp Seed"
+ },
+ {
+  "id": "SpaceTreeSeed",
+  "cat": "seed",
+  "name": "Bonbon Tree Seed"
+ },
+ {
+  "id": "SpiceVineSeed",
+  "cat": "seed",
+  "name": "Pincha Pepper Seed"
+ },
+ {
+  "id": "SwampHarvestPlantSeed",
+  "cat": "seed",
+  "name": "Bog Bucket Seed"
+ },
+ {
+  "id": "SwampLilySeed",
+  "cat": "seed",
+  "name": "Balm Lily Seed"
+ },
+ {
+  "id": "ToePlantSeed",
+  "cat": "seed",
+  "name": "Tranquil Toe Seed"
+ },
+ {
+  "id": "TubeWormSeed",
+  "cat": "seed",
+  "name": "Tublia Seed"
+ },
+ {
+  "id": "UrchinPlantSeed",
+  "cat": "seed",
+  "name": "Pinpoket Seed"
+ },
+ {
+  "id": "VineMotherSeed",
+  "cat": "seed",
+  "name": "Ovagro Node Seed"
+ },
+ {
+  "id": "WaterCupsSeed",
+  "cat": "seed",
+  "name": "Husha Cups Seed"
+ },
+ {
+  "id": "WineCupsSeed",
+  "cat": "seed",
+  "name": "Mallow Seed"
+ },
+ {
+  "id": "WormPlantSeed",
+  "cat": "seed",
+  "name": "Grubfruit Seed"
+ },
+ {
+  "id": "Aerogel",
+  "cat": "element",
+  "name": "Aerogel"
+ },
+ {
+  "id": "Algae",
+  "cat": "element",
+  "name": "Algae"
+ },
+ {
+  "id": "Aluminum",
+  "cat": "element",
+  "name": "Aluminum"
+ },
+ {
+  "id": "AluminumGas",
+  "cat": "element",
+  "name": "Aluminum Gas"
+ },
+ {
+  "id": "AluminumOre",
+  "cat": "element",
+  "name": "Aluminum Ore"
+ },
+ {
+  "id": "Amber",
+  "cat": "element",
+  "name": "Amber"
+ },
+ {
+  "id": "Basalt",
+  "cat": "element",
+  "name": "Basalt"
+ },
+ {
+  "id": "Bitumen",
+  "cat": "element",
+  "name": "Bitumen"
+ },
+ {
+  "id": "BleachStone",
+  "cat": "element",
+  "name": "Bleach Stone"
+ },
+ {
+  "id": "Brick",
+  "cat": "element",
+  "name": "Brick"
+ },
+ {
+  "id": "Brine",
+  "cat": "element",
+  "name": "Brine"
+ },
+ {
+  "id": "Carbon",
+  "cat": "element",
+  "name": "Coal"
+ },
+ {
+  "id": "CarbonDioxide",
+  "cat": "element",
+  "name": "Carbon Dioxide"
+ },
+ {
+  "id": "CarbonFibre",
+  "cat": "element",
+  "name": "Carbon Fiber"
+ },
+ {
+  "id": "CarbonGas",
+  "cat": "element",
+  "name": "Carbon Gas"
+ },
+ {
+  "id": "Cement",
+  "cat": "element",
+  "name": "Cement"
+ },
+ {
+  "id": "CementMix",
+  "cat": "element",
+  "name": "Cement Mix"
+ },
+ {
+  "id": "Ceramic",
+  "cat": "element",
+  "name": "Ceramic"
+ },
+ {
+  "id": "Chlorine",
+  "cat": "element",
+  "name": "Liquid Chlorine"
+ },
+ {
+  "id": "ChlorineGas",
+  "cat": "element",
+  "name": "Chlorine Gas"
+ },
+ {
+  "id": "Cinnabar",
+  "cat": "element",
+  "name": "Cinnabar Ore"
+ },
+ {
+  "id": "Clay",
+  "cat": "element",
+  "name": "Clay"
+ },
+ {
+  "id": "Cobalt",
+  "cat": "element",
+  "name": "Cobalt"
+ },
+ {
+  "id": "CobaltGas",
+  "cat": "element",
+  "name": "Cobalt Gas"
+ },
+ {
+  "id": "Cobaltite",
+  "cat": "element",
+  "name": "Cobalt Ore"
+ },
+ {
+  "id": "Composition",
+  "cat": "element",
+  "name": "Composition"
+ },
+ {
+  "id": "ContaminatedOxygen",
+  "cat": "element",
+  "name": "Polluted Oxygen"
+ },
+ {
+  "id": "Copper",
+  "cat": "element",
+  "name": "Copper"
+ },
+ {
+  "id": "CopperGas",
+  "cat": "element",
+  "name": "Copper Gas"
+ },
+ {
+  "id": "Coquina",
+  "cat": "element",
+  "name": "Coquina"
+ },
+ {
+  "id": "Corallium",
+  "cat": "element",
+  "name": "Corallium"
+ },
+ {
+  "id": "Corium",
+  "cat": "element",
+  "name": "Corium"
+ },
+ {
+  "id": "Creature",
+  "cat": "element",
+  "name": "Genetic Ooze"
+ },
+ {
+  "id": "CrushedIce",
+  "cat": "element",
+  "name": "Crushed Ice"
+ },
+ {
+  "id": "CrushedRock",
+  "cat": "element",
+  "name": "Crushed Rock"
+ },
+ {
+  "id": "Cuprite",
+  "cat": "element",
+  "name": "Copper Ore"
+ },
+ {
+  "id": "DepletedUranium",
+  "cat": "element",
+  "name": "Depleted Uranium"
+ },
+ {
+  "id": "Diamond",
+  "cat": "element",
+  "name": "Diamond"
+ },
+ {
+  "id": "Dirt",
+  "cat": "element",
+  "name": "Dirt"
+ },
+ {
+  "id": "DirtyIce",
+  "cat": "element",
+  "name": "Polluted Ice"
+ },
+ {
+  "id": "DirtyWater",
+  "cat": "element",
+  "name": "Polluted Water"
+ },
+ {
+  "id": "Electrum",
+  "cat": "element",
+  "name": "Electrum"
+ },
+ {
+  "id": "EnrichedUranium",
+  "cat": "element",
+  "name": "Enriched Uranium"
+ },
+ {
+  "id": "Ethanol",
+  "cat": "element",
+  "name": "Ethanol"
+ },
+ {
+  "id": "EthanolGas",
+  "cat": "element",
+  "name": "Ethanol Gas"
+ },
+ {
+  "id": "FabricatedWood",
+  "cat": "element",
+  "name": "Plywood"
+ },
+ {
+  "id": "Fallout",
+  "cat": "element",
+  "name": "Nuclear Fallout"
+ },
+ {
+  "id": "Fertilizer",
+  "cat": "element",
+  "name": "Fertilizer"
+ },
+ {
+  "id": "FishMilk",
+  "cat": "element",
+  "name": "Ovolene"
+ },
+ {
+  "id": "FishMilkIce",
+  "cat": "element",
+  "name": "Frozen Ovolene"
+ },
+ {
+  "id": "Fossil",
+  "cat": "element",
+  "name": "Fossil"
+ },
+ {
+  "id": "FrozenInk",
+  "cat": "element",
+  "name": "Frozen Squid Ink"
+ },
+ {
+  "id": "FrozenPhytoOil",
+  "cat": "element",
+  "name": "Frozen Phyto Oil"
+ },
+ {
+  "id": "Fullerene",
+  "cat": "element",
+  "name": "Fullerene"
+ },
+ {
+  "id": "Galena",
+  "cat": "element",
+  "name": "Galena"
+ },
+ {
+  "id": "Glass",
+  "cat": "element",
+  "name": "Glass"
+ },
+ {
+  "id": "Gold",
+  "cat": "element",
+  "name": "Gold"
+ },
+ {
+  "id": "GoldAmalgam",
+  "cat": "element",
+  "name": "Gold Amalgam"
+ },
+ {
+  "id": "GoldGas",
+  "cat": "element",
+  "name": "Gold Gas"
+ },
+ {
+  "id": "Granite",
+  "cat": "element",
+  "name": "Granite"
+ },
+ {
+  "id": "Graphite",
+  "cat": "element",
+  "name": "Graphite"
+ },
+ {
+  "id": "Gunk",
+  "cat": "element",
+  "name": "Solid Gunk"
+ },
+ {
+  "id": "Helium",
+  "cat": "element",
+  "name": "Helium"
+ },
+ {
+  "id": "Hydrogen",
+  "cat": "element",
+  "name": "Hydrogen Gas"
+ },
+ {
+  "id": "Ice",
+  "cat": "element",
+  "name": "Ice"
+ },
+ {
+  "id": "IgneousRock",
+  "cat": "element",
+  "name": "Igneous Rock"
+ },
+ {
+  "id": "Ink",
+  "cat": "element",
+  "name": "Squid Ink"
+ },
+ {
+  "id": "Iridium",
+  "cat": "element",
+  "name": "Iridium"
+ },
+ {
+  "id": "IridiumGas",
+  "cat": "element",
+  "name": "Iridium Gas"
+ },
+ {
+  "id": "Iron",
+  "cat": "element",
+  "name": "Iron"
+ },
+ {
+  "id": "IronGas",
+  "cat": "element",
+  "name": "Iron Gas"
+ },
+ {
+  "id": "IronOre",
+  "cat": "element",
+  "name": "Iron Ore"
+ },
+ {
+  "id": "Isoresin",
+  "cat": "element",
+  "name": "Isosap"
+ },
+ {
+  "id": "Katairite",
+  "cat": "element",
+  "name": "Abyssalite"
+ },
+ {
+  "id": "Latex",
+  "cat": "element",
+  "name": "Latex"
+ },
+ {
+  "id": "Lead",
+  "cat": "element",
+  "name": "Lead"
+ },
+ {
+  "id": "LeadGas",
+  "cat": "element",
+  "name": "Lead Gas"
+ },
+ {
+  "id": "Lime",
+  "cat": "element",
+  "name": "Lime"
+ },
+ {
+  "id": "LiquidCarbonDioxide",
+  "cat": "element",
+  "name": "Liquid Carbon Dioxide"
+ },
+ {
+  "id": "LiquidGunk",
+  "cat": "element",
+  "name": "Gunk"
+ },
+ {
+  "id": "LiquidHelium",
+  "cat": "element",
+  "name": "Helium"
+ },
+ {
+  "id": "LiquidHydrogen",
+  "cat": "element",
+  "name": "Liquid Hydrogen"
+ },
+ {
+  "id": "LiquidMethane",
+  "cat": "element",
+  "name": "Liquid Methane"
+ },
+ {
+  "id": "LiquidOxygen",
+  "cat": "element",
+  "name": "Liquid Oxygen"
+ },
+ {
+  "id": "LiquidPhosphorus",
+  "cat": "element",
+  "name": "Liquid Phosphorus"
+ },
+ {
+  "id": "LiquidPropane",
+  "cat": "element",
+  "name": "Liquid Propane"
+ },
+ {
+  "id": "MaficRock",
+  "cat": "element",
+  "name": "Mafic Rock"
+ },
+ {
+  "id": "Magma",
+  "cat": "element",
+  "name": "Magma"
+ },
+ {
+  "id": "Mercury",
+  "cat": "element",
+  "name": "Mercury"
+ },
+ {
+  "id": "MercuryGas",
+  "cat": "element",
+  "name": "Mercury Gas"
+ },
+ {
+  "id": "Methane",
+  "cat": "element",
+  "name": "Natural Gas"
+ },
+ {
+  "id": "Milk",
+  "cat": "element",
+  "name": "Brackene"
+ },
+ {
+  "id": "MoltenAluminum",
+  "cat": "element",
+  "name": "Molten Aluminum"
+ },
+ {
+  "id": "MoltenCarbon",
+  "cat": "element",
+  "name": "Liquid Carbon"
+ },
+ {
+  "id": "MoltenCobalt",
+  "cat": "element",
+  "name": "Molten Cobalt"
+ },
+ {
+  "id": "MoltenCopper",
+  "cat": "element",
+  "name": "Molten Copper"
+ },
+ {
+  "id": "MoltenGlass",
+  "cat": "element",
+  "name": "Molten Glass"
+ },
+ {
+  "id": "MoltenGold",
+  "cat": "element",
+  "name": "Molten Gold"
+ },
+ {
+  "id": "MoltenIridium",
+  "cat": "element",
+  "name": "Molten Iridium"
+ },
+ {
+  "id": "MoltenIron",
+  "cat": "element",
+  "name": "Molten Iron"
+ },
+ {
+  "id": "MoltenLead",
+  "cat": "element",
+  "name": "Molten Lead"
+ },
+ {
+  "id": "MoltenNickel",
+  "cat": "element",
+  "name": "Molten Nickel"
+ },
+ {
+  "id": "MoltenNiobium",
+  "cat": "element",
+  "name": "Molten Niobium"
+ },
+ {
+  "id": "MoltenSalt",
+  "cat": "element",
+  "name": "Molten Salt"
+ },
+ {
+  "id": "MoltenSteel",
+  "cat": "element",
+  "name": "Molten Steel"
+ },
+ {
+  "id": "MoltenSucrose",
+  "cat": "element",
+  "name": "Liquid Sucrose"
+ },
+ {
+  "id": "MoltenTungsten",
+  "cat": "element",
+  "name": "Molten Tungsten"
+ },
+ {
+  "id": "MoltenUranium",
+  "cat": "element",
+  "name": "Liquid Uranium"
+ },
+ {
+  "id": "MoltenZinc",
+  "cat": "element",
+  "name": "Molten Zinc"
+ },
+ {
+  "id": "Mucus",
+  "cat": "element",
+  "name": "Mucin"
+ },
+ {
+  "id": "Mud",
+  "cat": "element",
+  "name": "Mud"
+ },
+ {
+  "id": "MurkyBrine",
+  "cat": "element",
+  "name": "Polluted Brine"
+ },
+ {
+  "id": "MurkyBrineIce",
+  "cat": "element",
+  "name": "Polluted Brine Ice"
+ },
+ {
+  "id": "Naphtha",
+  "cat": "element",
+  "name": "Liquid Naphtha"
+ },
+ {
+  "id": "NaturalResin",
+  "cat": "element",
+  "name": "Resin"
+ },
+ {
+  "id": "NaturalSolidResin",
+  "cat": "element",
+  "name": "Solid Resin"
+ },
+ {
+  "id": "Nickel",
+  "cat": "element",
+  "name": "Nickel"
+ },
+ {
+  "id": "NickelGas",
+  "cat": "element",
+  "name": "Nickel Gas"
+ },
+ {
+  "id": "NickelOre",
+  "cat": "element",
+  "name": "Nickel Ore"
+ },
+ {
+  "id": "Niobium",
+  "cat": "element",
+  "name": "Niobium"
+ },
+ {
+  "id": "NiobiumGas",
+  "cat": "element",
+  "name": "Niobium Gas"
+ },
+ {
+  "id": "Obsidian",
+  "cat": "element",
+  "name": "Obsidian"
+ },
+ {
+  "id": "Oxygen",
+  "cat": "element",
+  "name": "Oxygen"
+ },
+ {
+  "id": "OxyRock",
+  "cat": "element",
+  "name": "Oxylite"
+ },
+ {
+  "id": "PalmWood",
+  "cat": "element",
+  "name": "Gum Wood"
+ },
+ {
+  "id": "Pearl",
+  "cat": "element",
+  "name": "Pearl"
+ },
+ {
+  "id": "Peat",
+  "cat": "element",
+  "name": "Peat"
+ },
+ {
+  "id": "Petroleum",
+  "cat": "element",
+  "name": "Petroleum"
+ },
+ {
+  "id": "PhosphateNodules",
+  "cat": "element",
+  "name": "Phosphate Nodules"
+ },
+ {
+  "id": "Phosphorite",
+  "cat": "element",
+  "name": "Phosphorite"
+ },
+ {
+  "id": "Phosphorus",
+  "cat": "element",
+  "name": "Refined Phosphorus"
+ },
+ {
+  "id": "PhosphorusGas",
+  "cat": "element",
+  "name": "Phosphorus Gas"
+ },
+ {
+  "id": "Pondscum",
+  "cat": "element",
+  "name": "Pondscum"
+ },
+ {
+  "id": "Propane",
+  "cat": "element",
+  "name": "Propane Gas"
+ },
+ {
+  "id": "Radium",
+  "cat": "element",
+  "name": "Radium"
+ },
+ {
+  "id": "RefinedCarbon",
+  "cat": "element",
+  "name": "Refined Carbon"
+ },
+ {
+  "id": "Regolith",
+  "cat": "element",
+  "name": "Regolith"
+ },
+ {
+  "id": "Resin",
+  "cat": "element",
+  "name": "Sap"
+ },
+ {
+  "id": "RockGas",
+  "cat": "element",
+  "name": "Rock Gas"
+ },
+ {
+  "id": "Rubber",
+  "cat": "element",
+  "name": "Rubber"
+ },
+ {
+  "id": "Rust",
+  "cat": "element",
+  "name": "Rust"
+ },
+ {
+  "id": "Salt",
+  "cat": "element",
+  "name": "Salt"
+ },
+ {
+  "id": "SaltGas",
+  "cat": "element",
+  "name": "Salt Gas"
+ },
+ {
+  "id": "SaltWater",
+  "cat": "element",
+  "name": "Salt Water"
+ },
+ {
+  "id": "Sand",
+  "cat": "element",
+  "name": "Sand"
+ },
+ {
+  "id": "SandCement",
+  "cat": "element",
+  "name": "Sand Cement"
+ },
+ {
+  "id": "Sandstone",
+  "cat": "element",
+  "name": "Sandstone"
+ },
+ {
+  "id": "SedimentaryRock",
+  "cat": "element",
+  "name": "Sedimentary Rock"
+ },
+ {
+  "id": "Shale",
+  "cat": "element",
+  "name": "Shale"
+ },
+ {
+  "id": "Siltstone",
+  "cat": "element",
+  "name": "Siltstone"
+ },
+ {
+  "id": "Slabs",
+  "cat": "element",
+  "name": "Building Slab"
+ },
+ {
+  "id": "SlimeMold",
+  "cat": "element",
+  "name": "Slime"
+ },
+ {
+  "id": "Snow",
+  "cat": "element",
+  "name": "Snow"
+ },
+ {
+  "id": "SolidCarbonDioxide",
+  "cat": "element",
+  "name": "Solid Carbon Dioxide"
+ },
+ {
+  "id": "SolidChlorine",
+  "cat": "element",
+  "name": "Solid Chlorine"
+ },
+ {
+  "id": "SolidCrudeOil",
+  "cat": "element",
+  "name": "Solid Crude Oil"
+ },
+ {
+  "id": "SolidEthanol",
+  "cat": "element",
+  "name": "Solid Ethanol"
+ },
+ {
+  "id": "SolidHydrogen",
+  "cat": "element",
+  "name": "Solid Hydrogen"
+ },
+ {
+  "id": "SolidMercury",
+  "cat": "element",
+  "name": "Mercury"
+ },
+ {
+  "id": "SolidMethane",
+  "cat": "element",
+  "name": "Solid Methane"
+ },
+ {
+  "id": "SolidMucus",
+  "cat": "element",
+  "name": "Frozen Mucin"
+ },
+ {
+  "id": "SolidNaphtha",
+  "cat": "element",
+  "name": "Solid Naphtha"
+ },
+ {
+  "id": "SolidNuclearWaste",
+  "cat": "element",
+  "name": "Solid Nuclear Waste"
+ },
+ {
+  "id": "SolidOxygen",
+  "cat": "element",
+  "name": "Solid Oxygen"
+ },
+ {
+  "id": "SolidPetroleum",
+  "cat": "element",
+  "name": "Solid Petroleum"
+ },
+ {
+  "id": "SolidPropane",
+  "cat": "element",
+  "name": "Solid Propane"
+ },
+ {
+  "id": "SolidViscoGel",
+  "cat": "element",
+  "name": "Solid Visco-Gel"
+ },
+ {
+  "id": "SourGas",
+  "cat": "element",
+  "name": "Sour Gas"
+ },
+ {
+  "id": "StableSnow",
+  "cat": "element",
+  "name": "Packed Snow"
+ },
+ {
+  "id": "Steam",
+  "cat": "element",
+  "name": "Steam"
+ },
+ {
+  "id": "Steel",
+  "cat": "element",
+  "name": "Steel"
+ },
+ {
+  "id": "SteelGas",
+  "cat": "element",
+  "name": "Steel Gas"
+ },
+ {
+  "id": "Sucrose",
+  "cat": "element",
+  "name": "Sucrose"
+ },
+ {
+  "id": "Sulfur",
+  "cat": "element",
+  "name": "Sulfur"
+ },
+ {
+  "id": "SulfurGas",
+  "cat": "element",
+  "name": "Sulfur Gas"
+ },
+ {
+  "id": "SuperCoolantGas",
+  "cat": "element",
+  "name": "Super Coolant Gas"
+ },
+ {
+  "id": "SuperInsulator",
+  "cat": "element",
+  "name": "Insulite"
+ },
+ {
+  "id": "Tallow",
+  "cat": "element",
+  "name": "Tallow"
+ },
+ {
+  "id": "ToxicMud",
+  "cat": "element",
+  "name": "Polluted Mud"
+ },
+ {
+  "id": "ToxicSand",
+  "cat": "element",
+  "name": "Polluted Dirt"
+ },
+ {
+  "id": "Tungsten",
+  "cat": "element",
+  "name": "Tungsten"
+ },
+ {
+  "id": "TungstenGas",
+  "cat": "element",
+  "name": "Tungsten Gas"
+ },
+ {
+  "id": "Unobtanium",
+  "cat": "element",
+  "name": "Neutronium"
+ },
+ {
+  "id": "Vacuum",
+  "cat": "element",
+  "name": "Vacuum"
+ },
+ {
+  "id": "Void",
+  "cat": "element",
+  "name": "Void"
+ },
+ {
+  "id": "Water",
+  "cat": "element",
+  "name": "Water"
+ },
+ {
+  "id": "Wolframite",
+  "cat": "element",
+  "name": "Wolframite"
+ },
+ {
+  "id": "WoodLog",
+  "cat": "element",
+  "name": "Wood"
+ },
+ {
+  "id": "Yellowcake",
+  "cat": "element",
+  "name": "Yellowcake"
+ },
+ {
+  "id": "Zinc",
+  "cat": "element",
+  "name": "Zinc"
+ },
+ {
+  "id": "ZincGas",
+  "cat": "element",
+  "name": "Zinc Gas"
+ },
+ {
+  "id": "ZincOre",
+  "cat": "element",
+  "name": "Zinc Ore"
+ },
+ {
+  "id": "BasicForagePlant",
+  "cat": "food",
+  "name": "Muckroot"
+ },
+ {
+  "id": "BasicPlantBar",
+  "cat": "food",
+  "name": "Liceloaf"
+ },
+ {
+  "id": "BasicPlantFood",
+  "cat": "food",
+  "name": "Meal Lice"
+ },
+ {
+  "id": "Bean",
+  "cat": "food",
+  "name": "Nosh Bean"
+ },
+ {
+  "id": "BerryPie",
+  "cat": "food",
+  "name": "Mixed Berry Pie"
+ },
+ {
+  "id": "Burger",
+  "cat": "food",
+  "name": "Frost Burger"
+ },
+ {
+  "id": "ButterflyFood",
+  "cat": "food",
+  "name": "Toasted Mimillet"
+ },
+ {
+  "id": "ButterflyPlantSeed",
+  "cat": "food",
+  "name": "Mimillet"
+ },
+ {
+  "id": "Carrot",
+  "cat": "food",
+  "name": "Plume Squash"
+ },
+ {
+  "id": "Caviar",
+  "cat": "food",
+  "name": "Caviar"
+ },
+ {
+  "id": "ColdWheatBread",
+  "cat": "food",
+  "name": "Frost Bun"
+ },
+ {
+  "id": "CookedEgg",
+  "cat": "food",
+  "name": "Omelette"
+ },
+ {
+  "id": "CookedFish",
+  "cat": "food",
+  "name": "Cooked Seafood"
+ },
+ {
+  "id": "CookedMeat",
+  "cat": "food",
+  "name": "Barbeque"
+ },
+ {
+  "id": "CookedPikeapple",
+  "cat": "food",
+  "name": "Pikeapple Skewer"
+ },
+ {
+  "id": "Curry",
+  "cat": "food",
+  "name": "Curried Beans"
+ },
+ {
+  "id": "DeepFriedFish",
+  "cat": "food",
+  "name": "Fish Taco"
+ },
+ {
+  "id": "DeepFriedMeat",
+  "cat": "food",
+  "name": "Deep Fried Steak"
+ },
+ {
+  "id": "DeepFriedNosh",
+  "cat": "food",
+  "name": "Nosh Noms"
+ },
+ {
+  "id": "DeepFriedShellfish",
+  "cat": "food",
+  "name": "Shellfish Tempura"
+ },
+ {
+  "id": "DinosaurMeat",
+  "cat": "food",
+  "name": "Tough Meat"
+ },
+ {
+  "id": "DreckoEgg",
+  "cat": "food",
+  "name": "Drecko Egg"
+ },
+ {
+  "id": "Edamame",
+  "cat": "food",
+  "name": "Edamame"
+ },
+ {
+  "id": "FernFood",
+  "cat": "food",
+  "name": "Megafrond Grain"
+ },
+ {
+  "id": "FieldRation",
+  "cat": "food",
+  "name": "Nutrient Bar"
+ },
+ {
+  "id": "FishFood",
+  "cat": "food",
+  "name": "Pacu Treat"
+ },
+ {
+  "id": "FishMeat",
+  "cat": "food",
+  "name": "Fish Fillet"
+ },
+ {
+  "id": "FoodSplat",
+  "cat": "food",
+  "name": "Food Splatter"
+ },
+ {
+  "id": "ForestForagePlant",
+  "cat": "food",
+  "name": "Hexalent Fruit"
+ },
+ {
+  "id": "FriedMushBar",
+  "cat": "food",
+  "name": "Mush Fry"
+ },
+ {
+  "id": "FriedMushroom",
+  "cat": "food",
+  "name": "Fried Mushroom"
+ },
+ {
+  "id": "FriesCarrot",
+  "cat": "food",
+  "name": "Squash Fries"
+ },
+ {
+  "id": "FruitCake",
+  "cat": "food",
+  "name": "Berry Sludge"
+ },
+ {
+  "id": "GammaMush",
+  "cat": "food",
+  "name": "Gamma Mush"
+ },
+ {
+  "id": "GardenFoodPlantFood",
+  "cat": "food",
+  "name": "Sweatcorn"
+ },
+ {
+  "id": "GardenForagePlant",
+  "cat": "food",
+  "name": "Snac Fruit"
+ },
+ {
+  "id": "GrilledPrickleFruit",
+  "cat": "food",
+  "name": "Gristle Berry"
+ },
+ {
+  "id": "HardSkinBerry",
+  "cat": "food",
+  "name": "Pikeapple"
+ },
+ {
+  "id": "HatchEgg",
+  "cat": "food",
+  "name": "Hatch Egg"
+ },
+ {
+  "id": "IceCavesForagePlant",
+  "cat": "food",
+  "name": "Sherberry"
+ },
+ {
+  "id": "Lettuce",
+  "cat": "food",
+  "name": "Lettuce"
+ },
+ {
+  "id": "LightBugEgg",
+  "cat": "food",
+  "name": "Shine Bug Egg"
+ },
+ {
+  "id": "Maki",
+  "cat": "food",
+  "name": "Sushi Roll"
+ },
+ {
+  "id": "Meat",
+  "cat": "food",
+  "name": "Meat"
+ },
+ {
+  "id": "MushBar",
+  "cat": "food",
+  "name": "Mush Bar"
+ },
+ {
+  "id": "Mushroom",
+  "cat": "food",
+  "name": "Mushroom"
+ },
+ {
+  "id": "MushroomWrap",
+  "cat": "food",
+  "name": "Mushroom Wrap"
+ },
+ {
+  "id": "MusselTongue",
+  "cat": "food",
+  "name": "Mussel Tongue"
+ },
+ {
+  "id": "Nigiri",
+  "cat": "food",
+  "name": "Nigiri"
+ },
+ {
+  "id": "Nori",
+  "cat": "food",
+  "name": "Nori"
+ },
+ {
+  "id": "OilfloaterEgg",
+  "cat": "food",
+  "name": "Slickster Egg"
+ },
+ {
+  "id": "Pancakes",
+  "cat": "food",
+  "name": "Soufflé Pancakes"
+ },
+ {
+  "id": "Pasta",
+  "cat": "food",
+  "name": "Pasta"
+ },
+ {
+  "id": "Pemmican",
+  "cat": "food",
+  "name": "Pemmican"
+ },
+ {
+  "id": "PickledMeal",
+  "cat": "food",
+  "name": "Pickled Meal"
+ },
+ {
+  "id": "PlantMeat",
+  "cat": "food",
+  "name": "Plant Meat"
+ },
+ {
+  "id": "Popcorn",
+  "cat": "food",
+  "name": "Popcorn"
+ },
+ {
+  "id": "PrehistoricPacuFillet",
+  "cat": "food",
+  "name": "Jawbo Fillet"
+ },
+ {
+  "id": "PrickleFruit",
+  "cat": "food",
+  "name": "Bristle Berry"
+ },
+ {
+  "id": "PuftEgg",
+  "cat": "food",
+  "name": "Puft Egg"
+ },
+ {
+  "id": "Quiche",
+  "cat": "food",
+  "name": "Mushroom Quiche"
+ },
+ {
+  "id": "RawEgg",
+  "cat": "food",
+  "name": "Raw Egg"
+ },
+ {
+  "id": "RotPile",
+  "cat": "food",
+  "name": "Rot Pile"
+ },
+ {
+  "id": "Salsa",
+  "cat": "food",
+  "name": "Stuffed Berry"
+ },
+ {
+  "id": "SaltySticksFood",
+  "cat": "food",
+  "name": "Salty Sticks"
+ },
+ {
+  "id": "ShellfishMeat",
+  "cat": "food",
+  "name": "Raw Shellfish"
+ },
+ {
+  "id": "SmokedDinosaurMeat",
+  "cat": "food",
+  "name": "Tender Brisket"
+ },
+ {
+  "id": "SmokedFish",
+  "cat": "food",
+  "name": "Smoked Fish"
+ },
+ {
+  "id": "SmokedVegetables",
+  "cat": "food",
+  "name": "Veggie Poppers"
+ },
+ {
+  "id": "SpiceBread",
+  "cat": "food",
+  "name": "Pepper Bread"
+ },
+ {
+  "id": "SpiceNut",
+  "cat": "food",
+  "name": "Pincha Peppernut"
+ },
+ {
+  "id": "SpicyTofu",
+  "cat": "food",
+  "name": "Spicy Tofu"
+ },
+ {
+  "id": "SquidMeat",
+  "cat": "food",
+  "name": "Calamari"
+ },
+ {
+  "id": "SurfAndTurf",
+  "cat": "food",
+  "name": "Surf'n'Turf"
+ },
+ {
+  "id": "Sushi",
+  "cat": "food",
+  "name": "Sushi"
+ },
+ {
+  "id": "SwampDelights",
+  "cat": "food",
+  "name": "Swampy Delights"
+ },
+ {
+  "id": "SwampForagePlant",
+  "cat": "food",
+  "name": "Swamp Chard Heart"
+ },
+ {
+  "id": "SwampFruit",
+  "cat": "food",
+  "name": "Bog Jelly"
+ },
+ {
+  "id": "Tofu",
+  "cat": "food",
+  "name": "Tofu"
+ },
+ {
+  "id": "UrchinMeat",
+  "cat": "food",
+  "name": "Uni"
+ },
+ {
+  "id": "VineFruit",
+  "cat": "food",
+  "name": "Ovagro Fig"
+ },
+ {
+  "id": "WormBasicFood",
+  "cat": "food",
+  "name": "Roast Grubfruit Nut"
+ },
+ {
+  "id": "WormBasicFruit",
+  "cat": "food",
+  "name": "Spindly Grubfruit"
+ },
+ {
+  "id": "WormSuperFood",
+  "cat": "food",
+  "name": "Grubfruit Preserve"
+ },
+ {
+  "id": "WormSuperFruit",
+  "cat": "food",
+  "name": "Grubfruit"
+ },
+ {
+  "id": "BasicFabric",
+  "cat": "industrial",
+  "name": "Reed Fiber"
+ },
+ {
+  "id": "CrabShell",
+  "cat": "industrial",
+  "name": "Pokeshell Molt"
+ },
+ {
+  "id": "DewDrip",
+  "cat": "industrial",
+  "name": "Dewdrip"
+ },
+ {
+  "id": "EggShell",
+  "cat": "industrial",
+  "name": "Egg Shell"
+ },
+ {
+  "id": "Electrobank",
+  "cat": "industrial",
+  "name": "Eco Power Bank"
+ },
+ {
+  "id": "ElectrobankSelfCharging",
+  "cat": "industrial",
+  "name": "Atomic Power Bank"
+ },
+ {
+  "id": "FarmStationTools",
+  "cat": "industrial",
+  "name": "Micronutrient Fertilizer"
+ },
+ {
+  "id": "FeatherFabric",
+  "cat": "industrial",
+  "name": "Feather Fiber"
+ },
+ {
+  "id": "GeneShufflerRecharge",
+  "cat": "industrial",
+  "name": "Vacillator Recharge"
+ },
+ {
+  "id": "GoldBellyCrown",
+  "cat": "industrial",
+  "name": "Regal Bammoth Crest"
+ },
+ {
+  "id": "IceBellyPoop",
+  "cat": "industrial",
+  "name": "Bammoth Patty"
+ },
+ {
+  "id": "MachineParts",
+  "cat": "industrial",
+  "name": "Custom Parts"
+ },
+ {
+  "id": "OrbitalResearchDatabank",
+  "cat": "industrial",
+  "name": "Data Bank"
+ },
+ {
+  "id": "PlantFiber",
+  "cat": "industrial",
+  "name": "Plant Husk"
+ },
+ {
+  "id": "PlasticGasket",
+  "cat": "industrial",
+  "name": "Plastic Gasket"
+ },
+ {
+  "id": "PowerStationTools",
+  "cat": "industrial",
+  "name": "Microchip"
+ },
+ {
+  "id": "ResearchDatabank",
+  "cat": "industrial",
+  "name": "Data Bank"
+ },
+ {
+  "id": "RubberGasket",
+  "cat": "industrial",
+  "name": "Rubber Gasket"
+ },
+ {
+  "id": "SnailIronShell",
+  "cat": "industrial",
+  "name": "Gildgo Molt"
+ },
+ {
+  "id": "SnailShell",
+  "cat": "industrial",
+  "name": "Slogo Molt"
+ },
+ {
+  "id": "TableSalt",
+  "cat": "industrial",
+  "name": "Table Salt"
+ },
+ {
+  "id": "Urchin",
+  "cat": "industrial",
+  "name": "Pinpoki"
+ },
+ {
+  "id": "Wood",
+  "cat": "industrial",
+  "name": "Wood"
+ },
+ {
+  "id": "AdvancedCure",
+  "cat": "medicine",
+  "name": "Serum Vial"
+ },
+ {
+  "id": "Antihistamine",
+  "cat": "medicine",
+  "name": "Allergy Medication"
+ },
+ {
+  "id": "BasicBooster",
+  "cat": "medicine",
+  "name": "Vitamin Chews"
+ },
+ {
+  "id": "BasicCure",
+  "cat": "medicine",
+  "name": "Curative Tablet"
+ },
+ {
+  "id": "BasicRadPill",
+  "cat": "medicine",
+  "name": "Basic Rad Pill"
+ },
+ {
+  "id": "IntermediateBooster",
+  "cat": "medicine",
+  "name": "Immuno Booster"
+ },
+ {
+  "id": "IntermediateCure",
+  "cat": "medicine",
+  "name": "Medical Pack"
+ },
+ {
+  "id": "IntermediateRadPill",
+  "cat": "medicine",
+  "name": "Intermediate Rad Pill"
+ },
+ {
+  "id": "Placebo",
+  "cat": "medicine",
+  "name": "Placebo"
+ },
+ {
+  "id": "MachinerySpice",
+  "cat": "spice",
+  "name": "Machinist Spice"
+ },
+ {
+  "id": "PilotingSpice",
+  "cat": "spice",
+  "name": "Rocketeer Spice"
+ },
+ {
+  "id": "StrengthSpice",
+  "cat": "spice",
+  "name": "Brawny Spice"
+ },
+ {
+  "id": "AlgaeStegoEgg",
+  "cat": "egg",
+  "name": "Blum Lumb Egg"
+ },
+ {
+  "id": "ChameleonEgg",
+  "cat": "egg",
+  "name": "Dartle Egg"
+ },
+ {
+  "id": "CrabEgg",
+  "cat": "egg",
+  "name": "Pokeshell Roe"
+ },
+ {
+  "id": "GlassDeerEgg",
+  "cat": "egg",
+  "name": "Shatter Flox Egg"
+ },
+ {
+  "id": "IceBellyEgg",
+  "cat": "egg",
+  "name": "Bammoth Egg"
+ },
+ {
+  "id": "MoleEgg",
+  "cat": "egg",
+  "name": "Shove Vole Egg"
+ },
+ {
+  "id": "MosquitoEgg",
+  "cat": "egg",
+  "name": "Gnit Egg"
+ },
+ {
+  "id": "PacuEgg",
+  "cat": "egg",
+  "name": "Pacu Egg"
+ },
+ {
+  "id": "ParrotFishEgg",
+  "cat": "egg",
+  "name": "Beakon Egg"
+ },
+ {
+  "id": "PrehistoricPacuEgg",
+  "cat": "egg",
+  "name": "Jawbo Egg"
+ },
+ {
+  "id": "PufferFishEgg",
+  "cat": "egg",
+  "name": "Blowter Egg"
+ },
+ {
+  "id": "RaptorEgg",
+  "cat": "egg",
+  "name": "Rhex Egg"
+ },
+ {
+  "id": "SeaHorseEgg",
+  "cat": "egg",
+  "name": "Seaquine Egg"
+ },
+ {
+  "id": "SealEgg",
+  "cat": "egg",
+  "name": "Spigot Seal Egg"
+ },
+ {
+  "id": "SeaTurtleEgg",
+  "cat": "egg",
+  "name": "Orehull Egg"
+ },
+ {
+  "id": "SnailEgg",
+  "cat": "egg",
+  "name": "Slogo Egg"
+ },
+ {
+  "id": "SquidEgg",
+  "cat": "egg",
+  "name": "Glo Squid Egg"
+ },
+ {
+  "id": "SquirrelEgg",
+  "cat": "egg",
+  "name": "Pip Egg"
+ },
+ {
+  "id": "StaterpillarEgg",
+  "cat": "egg",
+  "name": "Plug Slug Egg"
+ },
+ {
+  "id": "StegoEgg",
+  "cat": "egg",
+  "name": "Lumb Egg"
+ },
+ {
+  "id": "WoodDeerEgg",
+  "cat": "egg",
+  "name": "Flox Egg"
+ }
+]

@@ -1,0 +1,15 @@
+# 构建产物
+src/SpaceStore/bin/
+src/SpaceStore/obj/
+*.user
+.vs/
+
+# 本地工具/临时文件
+.cache/
+tools/ref/
+tools/used.txt
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store

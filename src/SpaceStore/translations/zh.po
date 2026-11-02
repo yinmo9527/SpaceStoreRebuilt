@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpaceStoreRebuilt 2.1.0\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: SpaceStore Rebuild\n"
+
+msgctxt "SpaceStore.MyString.UI.COIN_NAME"
+msgid "Space Coin"
+msgstr "太空币"
+
+msgctxt "SpaceStore.MyString.UI.TOOL.TITLE"
+msgid "Space Store"
+msgstr "太空商店"
+
+msgctxt "SpaceStore.MyString.UI.TOOL.TOOL_TIP"
+msgid "Open the Space Store."
+msgstr "打开太空商店。"
+
+msgctxt "SpaceStore.MyString.UI.TOOL_SELL.TITLE"
+msgid "Sell Objects"
+msgstr "出售物品"
+
+msgctxt "SpaceStore.MyString.UI.TOOL_SELL.TOOL_TIP"
+msgid "Drag to sell anything on the ground."
+msgstr "按住左键拖过地面，批量卖掉上面的物品。"
+
+msgctxt "SpaceStore.MyString.UI.SELL.TITLE"
+msgid "SELL"
+msgstr "卖出"
+
+msgctxt "SpaceStore.MyString.UI.SELL.TOOL_TIP"
+msgid "Sell these {item} for {coin} space coins."
+msgstr "卖掉 {item}，可得 {coin} 太空币。"
+
+msgctxt "SpaceStore.MyString.UI.STORE.BALANCE"
+msgid "{0} space coins"
+msgstr "{0} 太空币"
+
+msgctxt "SpaceStore.MyString.UI.STORE.NO_TELEPAD"
+msgid "No Printing Pod found - trading unavailable"
+msgstr "没有找到打印舱，暂时无法交易"
+
+msgctxt "SpaceStore.MyString.UI.STORE.NOT_ENOUGH"
+msgid "Not enough space coins"
+msgstr "太空币不足"
+
+msgctxt "SpaceStore.MyString.UI.STORE.RELOAD"
+msgid "Reload Config"
+msgstr "重载配置"
+
+msgctxt "SpaceStore.MyString.UI.STORE.OPEN_FOLDER"
+msgid "Open Config Folder"
+msgstr "打开配置文件夹"
+
+msgctxt "SpaceStore.MyString.UI.STORE.OPEN_WEB"
+msgid "Make a Config File"
+msgstr "在线生成配置"
+
+msgctxt "SpaceStore.MyString.UI.STORE.PREV"
+msgid "< Prev"
+msgstr "< 上一页"
+
+msgctxt "SpaceStore.MyString.UI.STORE.NEXT"
+msgid "Next >"
+msgstr "下一页 >"
+
+msgctxt "SpaceStore.MyString.UI.STORE.PAGE"
+msgid "Page {0} / {1}"
+msgstr "第 {0} / {1} 页"
+
+msgctxt "SpaceStore.MyString.UI.STORE.EMPTY"
+msgid "Nothing for sale in this category"
+msgstr "这个分类下暂时没有商品"
+
+msgctxt "SpaceStore.MyString.UI.STORE.SEARCH_HINT"
+msgid "Search by name or id"
+msgstr "输入物品名（可用中文）或 id 搜索"
+
+msgctxt "SpaceStore.MyString.UI.STORE.SEARCH"
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "SpaceStore.MyString.UI.STORE.CLEAR"
+msgid "Clear"
+msgstr "清除"
+
+msgctxt "SpaceStore.MyString.UI.STORE.BUY"
+msgid "BUY"
+msgstr "购买"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_PRICE"
+msgid "{price} coins / {unit}"
+msgstr "单价 {price} 币 / {unit}"
+
+msgctxt "SpaceStore.MyString.UI.STORE.INVALID_QTY"
+msgid "Enter a quantity greater than 0"
+msgstr "请输入大于 0 的数量"
+
+msgctxt "SpaceStore.MyString.UI.STORE.BOUGHT"
+msgid "Bought {item} x{amount}{unit} for {cost} coins"
+msgstr "已购买 {item} {amount} {unit}，花费 {cost} 币"
+
+msgctxt "SpaceStore.MyString.UI.STORE.PREVIEW"
+msgid "{item} x{amount} {unit} = {cost} coins"
+msgstr "{item} × {amount} {unit} = {cost} 币"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_TONNE"
+msgid "t"
+msgstr "吨"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_PORTION"
+msgid "portion"
+msgstr "份"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_SEED"
+msgid "seed"
+msgstr "颗"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_EGG"
+msgid "egg"
+msgstr "枚"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_CRITTER"
+msgid "critter"
+msgstr "只"
+
+msgctxt "SpaceStore.MyString.UI.STORE.UNIT_PIECE"
+msgid "pc"
+msgstr "个"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.ALL"
+msgid "All"
+msgstr "全部"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.MATERIAL"
+msgid "Materials"
+msgstr "材料"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.FOOD"
+msgid "Food"
+msgstr "食物"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.SEED"
+msgid "Seeds"
+msgstr "种子"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.EGG"
+msgid "Eggs"
+msgstr "蛋"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.CRITTER"
+msgid "Critters"
+msgstr "生物"
+
+msgctxt "SpaceStore.MyString.UI.STORE.FILTER.OTHER"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "SpaceStore.MyString.UI.GOODS.GEOSEED.NAME"
+msgid "Geo-Seed"
+msgstr "地质种子"
+
+msgctxt "SpaceStore.MyString.UI.GOODS.GEOSEED.TITLE"
+msgid "Choose a Geyser"
+msgstr "选择间歇泉"
+
+msgctxt "SpaceStore.MyString.UI.GOODS.GEOSEED.ACTIVATE"
+msgid "ACTIVATE"
+msgstr "激活"
+
+msgctxt "SpaceStore.MyString.UI.GOODS.GEOSEED.TOOLTIP"
+msgid "A geyser of the selected type will be created at this seed's position."
+msgstr "激活后会在种子当前位置生成所选类型的间歇泉。"
+
+msgctxt "SpaceStore.MyString.UI.GOODS.GEOSEED.DESC"
+msgid "\"Explosions bring the Geo-Seed, and meteors make them germinate.\"\nPlace it, pick a geyser type in the details panel, then activate it."
+msgstr "“爆炸带来地质种子，流星使之发芽。”\n把它放下，在详情面板里选一种间歇泉，然后激活。"

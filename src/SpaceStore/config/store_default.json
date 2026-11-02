@@ -1,0 +1,2107 @@
+[
+  {
+    "id": "AdvancedCure",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "Aerogel",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Algae",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "AlgaeStegoEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Aluminum",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "AluminumGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "AluminumOre",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "Amber",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Antihistamine",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "Bammoth",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Basalt",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "BasicBooster",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "BasicCure",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "BasicFabric",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "BasicFabricMaterialPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "BasicForagePlant",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "BasicPlantBar",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "BasicPlantFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "BasicRadPill",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "BasicSingleHarvestPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Bean",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "BeanPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "BerryPie",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Bitumen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "BleachStone",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "BlueGrassSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Brick",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Brine",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "BulbPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "BulbloomSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Burger",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ButterflyFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ButterflyPlantSeed",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CactusPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Carbon",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "CarbonDioxide",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "CarbonFibre",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "CarbonGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Carrot",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CarrotPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Caviar",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Cement",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "CementMix",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Ceramic",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "ChameleonEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Chlorine",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "ChlorineGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Cinnabar",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "ClamSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Clay",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Cobalt",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "CobaltGas",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Cobaltite",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "ColdBreatherSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "ColdWheatBread",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ColdWheatSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "ContaminatedOxygen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "CookedEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CookedFish",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CookedMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CookedPikeapple",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Copper",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "CopperGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Coquina",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Corallium",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Corium",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Crab",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "CrabEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "CrabFreshWater",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "CrabShell",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "CrabWood",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "CritterTrapPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "CrushedIce",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "CrushedRock",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Cuprite",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "Curry",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "CylindricaSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "DeepFriedFish",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "DeepFriedMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "DeepFriedNosh",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "DeepFriedShellfish",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "DepletedUranium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "DewDrip",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "DewDripperPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "DewPalmSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Diamond",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "DinofernSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "DinosaurMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Dirt",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "DirtyIce",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "DirtyWater",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Drecko",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "DreckoEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "DreckoPlastic",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Edamame",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "EggShell",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Electrobank",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "ElectrobankSelfCharging",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Electrum",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "EnrichedUranium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Ethanol",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "EthanolGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "EvilFlowerSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "FabricatedWood",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Fallout",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "FarmStationTools",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "FeatherFabric",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "FernFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Fertilizer",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "FieldRation",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FilamentPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "FilterPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "FishFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FishMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FishMilk",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "FishMilkIce",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Flox",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "FlyTrapPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "FoodSplat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ForestForagePlant",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Fossil",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "FriedMushBar",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FriedMushroom",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FriesCarrot",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "FrozenInk",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "FrozenPhytoOil",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "FruitCake",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Fullerene",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Galena",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "GammaMush",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "GardenDecorPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "GardenFoodPlantFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "GardenFoodPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "GardenForagePlant",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "GasGrassSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "GeneShufflerRecharge",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Glass",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "GlassDeerEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Glom",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Gold",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "GoldAmalgam",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "GoldBellyCrown",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "GoldGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Granite",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Graphite",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "GrilledPrickleFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Gunk",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "HardPolypropylene",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "HardSkinBerry",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "HardSkinBerryPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Hatch",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "HatchEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "HatchHard",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "HatchMetal",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "HatchVeggie",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Helium",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Hydrogen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Ice",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "IceBellyEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "IceBellyPoop",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "IceCavesForagePlant",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "IceFlowerSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "IgneousRock",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Ink",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "IntermediateBooster",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "IntermediateCure",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "IntermediateRadPill",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "Iridium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "IridiumGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Iron",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "IronGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "IronOre",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "Isoresin",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Katairite",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "KelpPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Latex",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Lead",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "LeadGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LeafyPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Lettuce",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "LightBug",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugBlack",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugBlue",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugCrystal",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "LightBugOrange",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugPink",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "LightBugPurple",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Lime",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "LiquidCarbonDioxide",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidGunk",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidHelium",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidHydrogen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidMethane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidOxygen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidPhosphorus",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidPropane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "LiquidSulfur",
+    "price": 360,
+    "quantity": 1500
+  },
+  {
+    "id": "MachineParts",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "MachinerySpice",
+    "price": 150,
+    "quantity": 5
+  },
+  {
+    "id": "MaficRock",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Magma",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Maki",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Meat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Mercury",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MercuryGas",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Methane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Milk",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Mole",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "MoleDelicacy",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "MoleEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "MoltenAluminum",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenCarbon",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenCobalt",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenCopper",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenGlass",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenGold",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenIridium",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenIron",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenLead",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenNickel",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenNiobium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "MoltenSalt",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenSteel",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenSucrose",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenTungsten",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "MoltenUranium",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MoltenZinc",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Moo",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "MosquitoEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Mucus",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Mud",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "MurkyBrine",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "MurkyBrineIce",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "MushBar",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Mushroom",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "MushroomWrap",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "MusselTongue",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Naphtha",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "NaturalResin",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "NaturalSolidResin",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Nickel",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "NickelGas",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "NickelOre",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Nigiri",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Niobium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "NiobiumGas",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Nori",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "NuclearWaste",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Obsidian",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Oilfloater",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "OilfloaterDecor",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "OilfloaterEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "OilfloaterHighTemp",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "OrbitalResearchDatabank",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "OxyCoralSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "OxyRock",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "OxyfernSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Oxygen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Pacu",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PacuCleaner",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PacuEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "PacuTropical",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PalmWood",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Pancakes",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ParrotFishEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Pasta",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Pearl",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Peat",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Pemmican",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Petroleum",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "PhosphateNodules",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Phosphorite",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Phosphorus",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "PhosphorusGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "PickledMeal",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PilotingSpice",
+    "price": 150,
+    "quantity": 5
+  },
+  {
+    "id": "Placebo",
+    "price": 135,
+    "quantity": 3
+  },
+  {
+    "id": "PlanktonCoralSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "PlantFiber",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "PlantMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PlasticGasket",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Polypropylene",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Pondscum",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Popcorn",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PowerStationTools",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "PrehistoricPacuEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "PrehistoricPacuFillet",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PrickleFlowerSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "PrickleFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PrickleGrassSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Propane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "PufferFishEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Puft",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PuftAlpha",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PuftBleachstone",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "PuftEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "PuftOxylite",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Quiche",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Radium",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Raptor",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "RaptorEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "RawEgg",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "RefinedCarbon",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Regolith",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "ResearchDatabank",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Resin",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "RockGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "RotPile",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Rubber",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "RubberGasket",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Rust",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Salsa",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Salt",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "SaltGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SaltPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SaltWater",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SaltySticksFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SaltySticksPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Sand",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SandCement",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Sandstone",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SeaHorseEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SeaLettuceSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SeaTreeSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SeaTurtleEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Seal",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "SealEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SedimentaryRock",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Shale",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "ShellfishMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Siltstone",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SlimeMold",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SmokedDinosaurMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SmokedFish",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SmokedVegetables",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SnailEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SnailIronShell",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "SnailShell",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Snow",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SolidCarbonDioxide",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidChlorine",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidCrudeOil",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidEthanol",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidHydrogen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidMercury",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "SolidMethane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidMucus",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidNaphtha",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidNuclearWaste",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SolidOxygen",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidPetroleum",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidPropane",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SolidSuperCoolant",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SolidViscoGel",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SourGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SpaceTreeSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SpiceBread",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SpiceNut",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SpiceVineSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SpicyTofu",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SquidEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SquidMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Squirrel",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "SquirrelEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SquirrelHug",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "StableSnow",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "StaterpillarEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "Steam",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Steel",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "SteelGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "Stego",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "StegoEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "StrengthSpice",
+    "price": 150,
+    "quantity": 5
+  },
+  {
+    "id": "Sucrose",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Sulfur",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SulfurGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SuperCoolant",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SuperCoolantGas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "SuperInsulator",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "SurfAndTurf",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Sushi",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SwampDelights",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SwampForagePlant",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SwampFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "SwampHarvestPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "SwampLilySeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "TableSalt",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "Tallow",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "TempConductorSolid",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "ToePlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Tofu",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "ToxicMud",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "ToxicSand",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "TubeWormSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Tungsten",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "TungstenGas",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "UraniumOre",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "Urchin",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "UrchinMeat",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "UrchinPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "VineFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "VineMotherSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "ViscoGel",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Water",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "WaterCupsSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "WineCupsSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "Wolframite",
+    "price": 120,
+    "quantity": 3000
+  },
+  {
+    "id": "Wood",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "WoodDeerEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "WoodLog",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "WormBasicFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "WormBasicFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "WormPlantSeed",
+    "price": 225,
+    "quantity": 3
+  },
+  {
+    "id": "WormSuperFood",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "WormSuperFruit",
+    "price": 60,
+    "quantity": 10
+  },
+  {
+    "id": "Yellowcake",
+    "price": 1000,
+    "quantity": 100
+  },
+  {
+    "id": "Zinc",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "ZincGas",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "ZincOre",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "Store_GeoSeed",
+    "price": 600,
+    "quantity": 1
+  }
+]
