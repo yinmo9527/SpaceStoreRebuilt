@@ -2,17 +2,17 @@
 
 把《缺氧》创意工坊的 **Space Store 太空商店**（ID `3215097987`）和 **Space Store Expansion Pack**
 （ID `3231852237`）合并成一个 mod，重写内部结构，并内置一份覆盖本体 + 全 DLC 内容、
-共 **421 条** 商品的默认配置。
+共 **503 条** 商品的默认配置。
 
 - 源码：`src/SpaceStore/`
 - 默认配置：`src/SpaceStore/config/store_default.json`、`sell_default.json`
-- 价目表（可读版）：`docs/items.csv`（421 行）
+- 价目表（可读版）：`docs/items.csv`（503 行）
 - 生成/校验脚本：`tools/`
 
 ## 特性
 
 - **一个 mod 顶两个**：商店、回收、地质种子扩展包合并，不再需要两个 DLL 互相依赖。
-- **开箱 421 件商品**：材料 195 / 食物 85 / 种子 47 / 生物 37 / 蛋 21 / 工业品 23 / 药品 9 / 香料 3 / 地质种子 1，
+- **开箱 503 件商品**：材料 207 / 食物 85 / 种子 49 / 生物 57 / 蛋 49 / 工业品 24 / 仿生助推器 19 / 药品 9 / 香料 3 / 地质种子 1，
   覆盖本体与全部 DLC（铀系、钴系、钨铌、Frosty Planet、新行星包材料都在）。
 - **买得顺手**：窗口占屏幕 1/4，中文名搜索、分类页签、分页，每件商品填数量后一键买；
   材料按「吨」、种子按「颗」、蛋按「枚」、生物按「只」，边输入边算总价。
@@ -201,7 +201,7 @@ sell_*.json  ─→ ConfigLoader → Sellable 计价 ← SellableInjector 注入
 | 种子 | 颗 | 配置份数（默认 3） | |
 | 蛋 | 枚 | 配置份数（默认 2） | |
 | 生物 | 只 | 配置份数（默认 1） | 靠 `CreatureBrain` 识别 |
-| 特殊消耗品 / 工业品 / 地质种子 | 个 | 配置份数 | 地质种子固定 1 枚 |
+| 特殊消耗品 / 工业品 / 仿生助推器 / 地质种子 | 个 | 配置份数 | 地质种子固定 1 枚 |
 
 **计价方式**：`总价 = 配置单价 ÷ 配置份数 × 你输入的数量`，材料先把吨换算成 kg。
 所以改价格只要改 `store_*.json`，界面上的单价会自动跟着变。
@@ -228,25 +228,32 @@ sell_*.json  ─→ ConfigLoader → Sellable 计价 ← SellableInjector 注入
 
 ---
 
-## 6. 默认配置：421 条，覆盖到哪
+## 6. 默认配置：503 条，覆盖到哪
 
 | 分类 | 条数 | 说明 |
 |---|---|---|
-| 材料 | 195 | 全部固体/液体/气体元素，含 DLC 的铀系（UraniumOre / EnrichedUranium / DepletedUranium / NuclearWaste / SolidNuclearWaste / Yellowcake / Radium）、钴系、钨/铌/富勒烯/异树脂、以及新 DLC 的 Amber / Cinnabar / Electrum / Galena / Iridium / Nickel / Zinc / Basalt / Coquina / Pearl / Peat / Shale / Siltstone / Sucrose / Tallow / Milk 等 |
+| 材料 | 207 | 全部固体/液体/气体元素，含 DLC 的铀系（UraniumOre / EnrichedUranium / DepletedUranium / NuclearWaste / SolidNuclearWaste / Yellowcake / Radium）、钴系、钨/铌/富勒烯/异树脂、以及新 DLC 的 Amber / Cinnabar / Electrum / Galena / Iridium / Nickel / Zinc / Basalt / Coquina / Pearl / Peat / Shale / SiltStone / Sucrose / Tallow / Milk 等；液体原料 CrudeOil / PhytoOil / RefinedLipid / SugarWater，以及合成气 Syngas / MoltenSyngas / SolidSyngas、BrineIce / MilkIce / MilkFat / FoolsGold / SolidResin 也已补上 |
 | 食物 | 85 | 含 Frosty Planet 的 Tofu / SpicyTofu / Salsa / Quiche / ShellfishMeat / Pemmican / Smoked* 等 |
-| 种子 | 47 | 含新植物 Carrot / DewDripper / Kelp / OxyCoral / PlanktonCoral / SeaTree 等 |
-| 生物 | 37 | Hatch / Puft / Drecko / Pacu / Slickster / 辐射蜂 / 蟹类 / Seal / Bammoth / Flox / Stego / Raptor 等 |
-| 蛋 | 21 | 按 `Assets` 里实际存在的 `*Egg` |
-| 工业制品 | 23 | 纤维、外壳、气密垫、研究数据盘、电芯等 |
+| 种子 | 49 | 含新植物 Carrot / DewDripper / Kelp / OxyCoral / PlanktonCoral / SeaTree 等，并补上 Arbor Acorn（ForestTreeSeed）与 Fungal Spore（MushroomSeed） |
+| 生物 | 57 | Hatch / Puft / Drecko / Pacu / Slickster / 辐射蜂 / 蟹类 / Seal / Bammoth / Flox / Stego / Raptor 等；本次补上全部变种（含 DLC2/4/5 的 Bammini、Regal Bammini、Flox Fawn、Blumblet、Slogo、Gildgo、Blowter、Seaquine、Orehull、Jawbo、Beakon、Gnit、Sweetle、Grubgrub、Plug Slug 等） |
+| 蛋 | 49 | 按游戏 `*Config.EGG_ID` 常量逐条核对，补齐了 28 个亚种蛋（金属/坚硬/素食哈奇、6 色发光虫、3 种帕库、3 种普夫特、3 种甲虫、2 种树鼠等） |
+| 工业制品 | 24 | 纤维、外壳、气密垫、研究数据盘、电芯等；补上金属/铀动力电芯（DisposableElectrobank_RawMetal / _UraniumOre） |
 | 药品 | 9 | 各类药片 |
-| 香料 | 3 | 机器/驾驶/保鲜香料 |
+| 仿生助推器 | 19 | 本次新增：`Booster_*`（钻探/建造/烹饪/农场/牧养/艺术/研究/驾驶/整理/装备/力量/工程/医疗/游泳等），DLC3 内容，3 个一包；界面上归在「其他」页签 |
+| 香料 | 3 | 机器/驾驶/力量香料 |
 | 自建商品 | 1 | `Store_GeoSeed` 地质种子（600 币） |
+
+> 补全依据：直接读本机游戏文件 `elements/*.yaml` 的 `elementId`、`Assembly-CSharp.dll`
+> 里每个 `*Config` 类的 `ID` / `EGG_ID` / `SEED_ID` 常量以及 `ldstr` 字面量，再用
+> `strings_template.pot` 的 `<link="...">` 反查显示名，所以 503 条都是**真实存在的 prefab 标签**。
+> 旧版本里 5 条拼写错误的 id 也一并修正：`Bammoth→IceBelly`、`Flox→WoodDeer`、
+> `ElectrobankSelfCharging→SelfChargingElectrobank`、`Sandstone→SandStone`、`Siltstone→SiltStone`、`Wood→WoodLog`。
 
 **价格模型**（`tools/gen_config.py` 里可改）：
 
 - 材料按「单位回收价 × 整包质量 × 溢价」定价，分 5 档：
   `T0 废料 5000kg / 40 币`、`T1 常见 3000kg`、`T2 加工 1500kg`、`T3 稀有 500kg`、`T4 尖端 100kg / 1000 币`；
-- 食物 10 份、种子 3 个、蛋 2 个、生物 1 只、药品 3 片；
+- 食物 10 份、种子 3 个、蛋 2 个、生物 1 只、药品 3 片、助推器 3 个；
 - **回收价整体 ×10**（`SELL_MULTIPLIER = 10.0`）：沙岩从 0.0002/吨涨到 0.002/吨，
   卖 50 吨废料从 10 币变成 100 币；
 - 回收价再高也不能高过「买入单价的一半」（`SELL_CAP_RATIO = 0.5`）。材料溢价动辄几十倍，
@@ -263,10 +270,17 @@ python tools/gen_config.py      # 读 items_db.json → 写 src/SpaceStore/confi
 python tools/validate_config.py # 校验字段/重复/ID/套利
 ```
 
-`items_db.json` 是从**本机游戏安装目录**反推出来的：
-`strings/strings_template.pot` 里的 `STRINGS.ELEMENTS.*` / `STRINGS.ITEMS.*` / `STRINGS.CREATURES.SPECIES.SEEDS.*`
-等条目，和 `Assembly-CSharp.dll` 里的字符串字面量做大小写还原匹配，所以 id 是真实存在的 prefab id，
-不是猜的。`tools/_probe.py` 保留了这个反推过程（路径按本机写死，游戏更新或换机器时改路径重跑即可）。
+`items_db.json` 是**直接从本机游戏安装目录反推**出来的，不是猜的：
+
+- 材料：`StreamingAssets/elements/{solid,liquid,gas,special}.yaml` 的 `elementId`（权威大小写）；
+- 种子 / 蛋 / 生物：`Assembly-CSharp.dll` 里每个 `*Config` 类的 `SEED_ID` / `EGG_ID` / `ID` 常量
+  （蛋和亚种蛋共 54 条、种子 45 条、生物 55 条，全部逐一核对）；
+- 食物 / 工业制品 / 药片 / 香料 / 助推器：`STRINGS.ITEMS.*.NAME` 的 `<link="...">` 标签，
+  再到 DLL 的 `ldstr` 字面量里找出真实大小写；
+- 显示名：`strings/strings_template.pot` 的 `STRINGS.*.NAME`。
+
+`tools/_probe.py` 保留了最初的 `.pot` 反推流程；`ONI_DIR` 环境变量可覆盖游戏目录，
+游戏更新或换机器时改路径重跑即可。
 
 ---
 
@@ -319,9 +333,12 @@ anim\assets\geo_seed\...
    第一次进游戏若有异常，`Player.log` 里搜 `Space Store`。
 2. **地质种子侧屏**沿用了扩展包的做法：复制 `ArtableSelectionSideScreen` 再用 `PDetours` 取私有控件
    （`applyButton` / `buttonContainer` 等）。游戏若改动这个界面，侧屏会失效——但不会影响商店与回收。
-3. **物品覆盖**：材料/食物/种子来自本地化表，命中率高；生物、工业制品、药品是按名称匹配 + 人工补的，
-   个别 id 可能对不上。对不上不会崩，会在 `Player.log` 里打印
-   `Space Store: 以下条目无法解析 -> id (prefab 不存在)`，照着删掉或改名即可。
+3. **物品覆盖**：503 条全部对照本机游戏文件逐条核验过（见第 6 节），不再靠名称猜。
+   仍有个别条目属于「游戏里没有对应 prefab」的类型，例如香料 `MachinerySpice` / `PilotingSpice` /
+   `StrengthSpice`：它们是 `Spices..ctor` 里注册的**配方数据**，不是 prefab，买不到也卖不掉。
+   这类条目在运行时会被 `Catalog` 跳过，`Player.log` 里打印
+   `Space Store: 以下条目无法解析 -> id (prefab 不存在)`。如果你确认某个 id 有问题，
+   从 `store_*.json` 删掉或改名即可，不影响其它商品。
 4. **动画资源**：`anim/assets/geo_seed/*` 取自本机已订阅的原扩展包（同一作者资源，自用没问题）；
    若要公开发布，请自行替换成自制贴图。
 5. 卖间歇泉不再清理下方中子物质，被中子物质包住的泉卖完仍会留个洞。
@@ -337,8 +354,10 @@ anim\assets\geo_seed\...
 
 - Steam 创意工坊页面 `3215097987` / `3231852237`（功能、价格、版本、作者回复）
 - 源码参考：`github.com/yuanze31/ttdly-ONI-Mods` 的 `SpaceStore/`、`StoreGoods/`
-- 物品 id 与分类：本机 `OxygenNotIncluded_Data/StreamingAssets/strings/strings_template.pot`
-  \+ `Managed/Assembly-CSharp.dll` 元数据
+- 物品 id 与分类：本机 `OxygenNotIncluded_Data/StreamingAssets/` 下的
+  `elements/*.yaml`（元素表）、`strings/strings_template.pot`（显示名与 `<link>` 标签），
+  以及 `Managed/Assembly-CSharp.dll` 的元数据（每个 `*Config` 类的 `ID` / `EGG_ID` / `SEED_ID`
+  常量、`ldstr` 字面量）。503 条商品全部由这些来源逐条核对，没有靠名字猜的条目。
 - 在线配置编辑器 `spacestore-config-editor.pages.dev`（配置格式 `[{id,price,quantity}]` 即来源于此）
 
 ---

@@ -37,6 +37,8 @@ CATEGORY_RULES = {
     "industrial": (20, 1.5, 1),
     "medicine":   (3, 15.0, 1),
     "spice":      (5, 10.0, 1),
+    # 仿生 Duplicant 的助推器：游戏里 100kg 原料造一个，一次卖 3 个
+    "booster":    (3, 40.0, 1),
 }
 
 # ---- 材料分级：显式覆盖优先，其余按规则推断 ----
@@ -54,6 +56,7 @@ T3 = {
     "RefinedCarbon", "Salt", "BleachStone", "OxyRock", "Rust", "Resin", "NaturalResin",
     "NaturalSolidResin", "SolidResin", "Latex", "Ink", "FrozenInk", "Tallow", "PhytoOil",
     "FrozenPhytoOil", "Sucrose", "FishMilk", "FishMilkIce", "Milk", "MilkFat", "MilkIce",
+    "RefinedLipid", "FoolsGold",
     "WoodLog", "PalmWood", "FabricatedWood", "Mercury", "SolidMercury", "MercuryGas",
     "Corallium", "Pearl", "Katairite", "Obsidian", "Granite", "Marble", "MoltenSteel",
     "MoltenGlass", "MoltenGold", "MoltenCopper", "MoltenIron", "MoltenAluminum", "MoltenLead",
@@ -61,9 +64,9 @@ T3 = {
     "MoltenSucrose", "MoltenUranium", "Magma",
 }
 T0 = {
-    "Sand", "Sandstone", "Dirt", "Clay", "Regolith", "CrushedRock", "CrushedIce", "Ice",
+    "Sand", "SandStone", "Sandstone", "Dirt", "Clay", "Regolith", "CrushedRock", "CrushedIce", "Ice",
     "DirtyIce", "BrineIce", "Snow", "StableSnow", "Mud", "ToxicMud", "Peat", "SlimeMold",
-    "ToxicSand", "SandCement", "CementMix", "Siltstone", "Shale", "Coquina", "Basalt",
+    "ToxicSand", "SandCement", "CementMix", "SiltStone", "Siltstone", "Shale", "Coquina", "Basalt",
     "MaficRock", "SedimentaryRock", "IgneousRock", "Brick", "Cement", "Composition", "Slabs",
     "Gunk", "Mucus", "SolidMucus", "Pondscum", "Brine", "MurkyBrine", "MurkyBrineIce",
     "DirtyWater", "SaltWater", "Water", "Carbon", "CarbonDioxide", "Oxygen", "ContaminatedOxygen",
@@ -75,6 +78,8 @@ T0 = {
     "LiquidHydrogen", "LiquidMethane", "LiquidOxygen", "LiquidPhosphorus", "LiquidPropane",
     "CrudeOil", "Petroleum", "Naphtha", "Ethanol", "EthanolGas", "Bitumen", "Water",
     "CarbonGas", "Hydrogen", "Methane", "Propane", "Helium", "Oxygen", "Vacuum", "Void",
+    # DLC5 的合成气系：游戏中以液体/固体形态存在，按 T0 处理
+    "Syngas", "MoltenSyngas", "SolidSyngas", "SugarWater",
 }
 SKIP = {"Creature", "Vacuum", "Void", "Composition", "Slabs", "Unobtanium", "TestElement"}
 
@@ -144,10 +149,14 @@ def main():
         if not any(x["id"] == extra["id"] for x in sell):
             sell.append(extra)
     os.makedirs(OUT, exist_ok=True)
-    with open(os.path.join(OUT, "store_default.json"), "w", encoding="utf-8") as f:
+    # newline="\n" 是必要的：Windows 上用默认文本模式会把 \n 翻译成 \r\n，
+    # 整个文件在 git 里就会显示成全量改写。
+    with open(os.path.join(OUT, "store_default.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(store, f, ensure_ascii=False, indent=2)
-    with open(os.path.join(OUT, "sell_default.json"), "w", encoding="utf-8") as f:
+        f.write("\n")
+    with open(os.path.join(OUT, "sell_default.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(sell, f, ensure_ascii=False, indent=2)
+        f.write("\n")
 
     print("商店条目:", len(store), "回收条目:", len(sell))
     print("分类:", json.dumps(report["by_cat"], ensure_ascii=False))

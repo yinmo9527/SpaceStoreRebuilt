@@ -1,8 +1,113 @@
 [
  {
-  "id": "Bammoth",
+  "id": "Booster_Art1",
+  "cat": "booster",
+  "name": "Booster_Art1"
+ },
+ {
+  "id": "Booster_Carry1",
+  "cat": "booster",
+  "name": "Booster_Carry1"
+ },
+ {
+  "id": "Booster_Construct1",
+  "cat": "booster",
+  "name": "Booster_Construct1"
+ },
+ {
+  "id": "Booster_Cook1",
+  "cat": "booster",
+  "name": "Booster_Cook1"
+ },
+ {
+  "id": "Booster_Dig1",
+  "cat": "booster",
+  "name": "Booster_Dig1"
+ },
+ {
+  "id": "Booster_Dig2",
+  "cat": "booster",
+  "name": "Booster_Dig2"
+ },
+ {
+  "id": "Booster_Farm1",
+  "cat": "booster",
+  "name": "Booster_Farm1"
+ },
+ {
+  "id": "Booster_Medicine1",
+  "cat": "booster",
+  "name": "Booster_Medicine1"
+ },
+ {
+  "id": "Booster_Mod_Swim",
+  "cat": "booster",
+  "name": "Booster_Mod_Swim"
+ },
+ {
+  "id": "Booster_Op1",
+  "cat": "booster",
+  "name": "Booster_Op1"
+ },
+ {
+  "id": "Booster_Op2",
+  "cat": "booster",
+  "name": "Booster_Op2"
+ },
+ {
+  "id": "Booster_Pilot1",
+  "cat": "booster",
+  "name": "Booster_Pilot1"
+ },
+ {
+  "id": "Booster_PilotVanilla1",
+  "cat": "booster",
+  "name": "Booster_PilotVanilla1"
+ },
+ {
+  "id": "Booster_Ranch1",
+  "cat": "booster",
+  "name": "Booster_Ranch1"
+ },
+ {
+  "id": "Booster_Research1",
+  "cat": "booster",
+  "name": "Booster_Research1"
+ },
+ {
+  "id": "Booster_Research2",
+  "cat": "booster",
+  "name": "Booster_Research2"
+ },
+ {
+  "id": "Booster_Research3",
+  "cat": "booster",
+  "name": "Booster_Research3"
+ },
+ {
+  "id": "Booster_Suits1",
+  "cat": "booster",
+  "name": "Booster_Suits1"
+ },
+ {
+  "id": "Booster_Tidy1",
+  "cat": "booster",
+  "name": "Booster_Tidy1"
+ },
+ {
+  "id": "AlgaeStego",
   "cat": "critter",
-  "name": "Bammoth"
+  "name": "Blumblet"
+ },
+ {
+  "id": "Bee",
+  "cat": "critter",
+  "name": "Beetiny"
+ },
+ {
+  "id": "Chameleon",
+  "cat": "critter",
+  "name": "Dartlet"
  },
  {
   "id": "Crab",
@@ -20,6 +125,16 @@
   "name": "CrabWood"
  },
  {
+  "id": "DivergentBeetle",
+  "cat": "critter",
+  "name": "Sweetle Larva"
+ },
+ {
+  "id": "DivergentWorm",
+  "cat": "critter",
+  "name": "Grubgrub Wormling"
+ },
+ {
   "id": "Drecko",
   "cat": "critter",
   "name": "Drecko"
@@ -30,14 +145,19 @@
   "name": "DreckoPlastic"
  },
  {
-  "id": "Flox",
+  "id": "GlassDeer",
   "cat": "critter",
-  "name": "Flox"
+  "name": "Shatter Flox Fawn"
  },
  {
   "id": "Glom",
   "cat": "critter",
   "name": "Glom"
+ },
+ {
+  "id": "GoldBelly",
+  "cat": "critter",
+  "name": "Regal Bammini"
  },
  {
   "id": "Hatch",
@@ -58,6 +178,11 @@
   "id": "HatchVeggie",
   "cat": "critter",
   "name": "HatchVeggie"
+ },
+ {
+  "id": "IceBelly",
+  "cat": "critter",
+  "name": "Bammoth"
  },
  {
   "id": "LightBug",
@@ -110,6 +235,11 @@
   "name": "Moo"
  },
  {
+  "id": "Mosquito",
+  "cat": "critter",
+  "name": "Gnit Larva"
+ },
+ {
   "id": "Oilfloater",
   "cat": "critter",
   "name": "Oilfloater"
@@ -140,6 +270,21 @@
   "name": "PacuTropical"
  },
  {
+  "id": "ParrotFish",
+  "cat": "critter",
+  "name": "Beakon Fry"
+ },
+ {
+  "id": "PrehistoricPacu",
+  "cat": "critter",
+  "name": "Jawbo Fry"
+ },
+ {
+  "id": "PufferFish",
+  "cat": "critter",
+  "name": "Blowter"
+ },
+ {
   "id": "Puft",
   "cat": "critter",
   "name": "Puft"
@@ -165,9 +310,34 @@
   "name": "Raptor"
  },
  {
+  "id": "SeaHorse",
+  "cat": "critter",
+  "name": "Seaquine Fry"
+ },
+ {
   "id": "Seal",
   "cat": "critter",
   "name": "Seal"
+ },
+ {
+  "id": "SeaTurtle",
+  "cat": "critter",
+  "name": "Orehull Spawn"
+ },
+ {
+  "id": "Snail",
+  "cat": "critter",
+  "name": "Slogo Baby"
+ },
+ {
+  "id": "SnailIron",
+  "cat": "critter",
+  "name": "Gildgo Baby"
+ },
+ {
+  "id": "Squid",
+  "cat": "critter",
+  "name": "Blowter Fry"
  },
  {
   "id": "Squirrel",
@@ -175,14 +345,39 @@
   "name": "Squirrel"
  },
  {
+  "id": "SquirrelAquatic",
+  "cat": "critter",
+  "name": "SquirrelAquatic"
+ },
+ {
   "id": "SquirrelHug",
   "cat": "critter",
   "name": "SquirrelHug"
  },
  {
+  "id": "Staterpillar",
+  "cat": "critter",
+  "name": "Plug Slug"
+ },
+ {
+  "id": "StaterpillarGas",
+  "cat": "critter",
+  "name": "StaterpillarGas"
+ },
+ {
+  "id": "StaterpillarLiquid",
+  "cat": "critter",
+  "name": "StaterpillarLiquid"
+ },
+ {
   "id": "Stego",
   "cat": "critter",
   "name": "Stego"
+ },
+ {
+  "id": "WoodDeer",
+  "cat": "critter",
+  "name": "Flox"
  },
  {
   "id": "AlgaeStegoEgg",
@@ -200,14 +395,94 @@
   "name": "Pokeshell Roe"
  },
  {
+  "id": "CrabFreshWaterEgg",
+  "cat": "egg",
+  "name": "CrabFreshWaterEgg"
+ },
+ {
+  "id": "CrabWoodEgg",
+  "cat": "egg",
+  "name": "CrabWoodEgg"
+ },
+ {
+  "id": "DivergentBeetleEgg",
+  "cat": "egg",
+  "name": "DivergentBeetleEgg"
+ },
+ {
+  "id": "DivergentWormEgg",
+  "cat": "egg",
+  "name": "DivergentWormEgg"
+ },
+ {
+  "id": "DreckoPlasticEgg",
+  "cat": "egg",
+  "name": "DreckoPlasticEgg"
+ },
+ {
   "id": "GlassDeerEgg",
   "cat": "egg",
   "name": "Shatter Flox Egg"
  },
  {
+  "id": "GoldBellyEgg",
+  "cat": "egg",
+  "name": "GoldBellyEgg"
+ },
+ {
+  "id": "HatchHardEgg",
+  "cat": "egg",
+  "name": "HatchHardEgg"
+ },
+ {
+  "id": "HatchMetalEgg",
+  "cat": "egg",
+  "name": "HatchMetalEgg"
+ },
+ {
+  "id": "HatchVeggieEgg",
+  "cat": "egg",
+  "name": "HatchVeggieEgg"
+ },
+ {
   "id": "IceBellyEgg",
   "cat": "egg",
   "name": "Bammoth Egg"
+ },
+ {
+  "id": "LightBugBlackEgg",
+  "cat": "egg",
+  "name": "LightBugBlackEgg"
+ },
+ {
+  "id": "LightBugBlueEgg",
+  "cat": "egg",
+  "name": "LightBugBlueEgg"
+ },
+ {
+  "id": "LightBugCrystalEgg",
+  "cat": "egg",
+  "name": "LightBugCrystalEgg"
+ },
+ {
+  "id": "LightBugOrangeEgg",
+  "cat": "egg",
+  "name": "LightBugOrangeEgg"
+ },
+ {
+  "id": "LightBugPinkEgg",
+  "cat": "egg",
+  "name": "LightBugPinkEgg"
+ },
+ {
+  "id": "LightBugPurpleEgg",
+  "cat": "egg",
+  "name": "LightBugPurpleEgg"
+ },
+ {
+  "id": "MoleDelicacyEgg",
+  "cat": "egg",
+  "name": "MoleDelicacyEgg"
  },
  {
   "id": "MoleEgg",
@@ -220,9 +495,29 @@
   "name": "Gnit Egg"
  },
  {
+  "id": "OilfloaterDecorEgg",
+  "cat": "egg",
+  "name": "OilfloaterDecorEgg"
+ },
+ {
+  "id": "OilfloaterHighTempEgg",
+  "cat": "egg",
+  "name": "OilfloaterHighTempEgg"
+ },
+ {
+  "id": "PacuCleanerEgg",
+  "cat": "egg",
+  "name": "PacuCleanerEgg"
+ },
+ {
   "id": "PacuEgg",
   "cat": "egg",
   "name": "Pacu Egg"
+ },
+ {
+  "id": "PacuTropicalEgg",
+  "cat": "egg",
+  "name": "PacuTropicalEgg"
  },
  {
   "id": "ParrotFishEgg",
@@ -240,6 +535,21 @@
   "name": "Blowter Egg"
  },
  {
+  "id": "PuftAlphaEgg",
+  "cat": "egg",
+  "name": "PuftAlphaEgg"
+ },
+ {
+  "id": "PuftBleachstoneEgg",
+  "cat": "egg",
+  "name": "PuftBleachstoneEgg"
+ },
+ {
+  "id": "PuftOxyliteEgg",
+  "cat": "egg",
+  "name": "PuftOxyliteEgg"
+ },
+ {
   "id": "RaptorEgg",
   "cat": "egg",
   "name": "Rhex Egg"
@@ -250,14 +560,14 @@
   "name": "Seaquine Egg"
  },
  {
-  "id": "SeaTurtleEgg",
-  "cat": "egg",
-  "name": "Orehull Egg"
- },
- {
   "id": "SealEgg",
   "cat": "egg",
   "name": "Spigot Seal Egg"
+ },
+ {
+  "id": "SeaTurtleEgg",
+  "cat": "egg",
+  "name": "Orehull Egg"
  },
  {
   "id": "SnailEgg",
@@ -265,9 +575,19 @@
   "name": "Slogo Egg"
  },
  {
+  "id": "SnailIronEgg",
+  "cat": "egg",
+  "name": "SnailIronEgg"
+ },
+ {
   "id": "SquidEgg",
   "cat": "egg",
   "name": "Glo Squid Egg"
+ },
+ {
+  "id": "SquirrelAquaticEgg",
+  "cat": "egg",
+  "name": "SquirrelAquaticEgg"
  },
  {
   "id": "SquirrelEgg",
@@ -275,9 +595,24 @@
   "name": "Pip Egg"
  },
  {
+  "id": "SquirrelHugEgg",
+  "cat": "egg",
+  "name": "SquirrelHugEgg"
+ },
+ {
   "id": "StaterpillarEgg",
   "cat": "egg",
   "name": "Plug Slug Egg"
+ },
+ {
+  "id": "StaterpillarGasEgg",
+  "cat": "egg",
+  "name": "StaterpillarGasEgg"
+ },
+ {
+  "id": "StaterpillarLiquidEgg",
+  "cat": "egg",
+  "name": "StaterpillarLiquidEgg"
  },
  {
   "id": "StegoEgg",
@@ -730,6 +1065,16 @@
   "name": "Dewdrip"
  },
  {
+  "id": "DisposableElectrobank_RawMetal",
+  "cat": "industrial",
+  "name": "DisposableElectrobank_RawMetal"
+ },
+ {
+  "id": "DisposableElectrobank_UraniumOre",
+  "cat": "industrial",
+  "name": "DisposableElectrobank_UraniumOre"
+ },
+ {
   "id": "EggShell",
   "cat": "industrial",
   "name": "Egg Shell"
@@ -738,11 +1083,6 @@
   "id": "Electrobank",
   "cat": "industrial",
   "name": "Eco Power Bank"
- },
- {
-  "id": "ElectrobankSelfCharging",
-  "cat": "industrial",
-  "name": "Atomic Power Bank"
  },
  {
   "id": "FarmStationTools",
@@ -805,6 +1145,11 @@
   "name": "Rubber Gasket"
  },
  {
+  "id": "SelfChargingElectrobank",
+  "cat": "industrial",
+  "name": "Atomic Power Bank"
+ },
+ {
   "id": "SnailIronShell",
   "cat": "industrial",
   "name": "Gildgo Molt"
@@ -823,11 +1168,6 @@
   "id": "Urchin",
   "cat": "industrial",
   "name": "Pinpoki"
- },
- {
-  "id": "Wood",
-  "cat": "industrial",
-  "name": "Wood"
  },
  {
   "id": "Aerogel",
@@ -883,6 +1223,11 @@
   "id": "Brine",
   "cat": "material",
   "name": "Brine"
+ },
+ {
+  "id": "BrineIce",
+  "cat": "material",
+  "name": "Brine Ice"
  },
  {
   "id": "Carbon",
@@ -995,6 +1340,11 @@
   "name": "Genetic Ooze"
  },
  {
+  "id": "CrudeOil",
+  "cat": "material",
+  "name": "Crude Oil"
+ },
+ {
   "id": "CrushedIce",
   "cat": "material",
   "name": "Crushed Ice"
@@ -1078,6 +1428,11 @@
   "id": "FishMilkIce",
   "cat": "material",
   "name": "Frozen Ovolene"
+ },
+ {
+  "id": "FoolsGold",
+  "cat": "material",
+  "name": "Pyrite"
  },
  {
   "id": "Fossil",
@@ -1300,6 +1655,16 @@
   "name": "Brackene"
  },
  {
+  "id": "MilkFat",
+  "cat": "material",
+  "name": "Brackwax"
+ },
+ {
+  "id": "MilkIce",
+  "cat": "material",
+  "name": "Frozen Brackene"
+ },
+ {
   "id": "MoltenAluminum",
   "cat": "material",
   "name": "Molten Aluminum"
@@ -1368,6 +1733,11 @@
   "id": "MoltenSucrose",
   "cat": "material",
   "name": "Liquid Sucrose"
+ },
+ {
+  "id": "MoltenSyngas",
+  "cat": "material",
+  "name": "MoltenSyngas"
  },
  {
   "id": "MoltenTungsten",
@@ -1455,14 +1825,14 @@
   "name": "Obsidian"
  },
  {
-  "id": "OxyRock",
-  "cat": "material",
-  "name": "Oxylite"
- },
- {
   "id": "Oxygen",
   "cat": "material",
   "name": "Oxygen"
+ },
+ {
+  "id": "OxyRock",
+  "cat": "material",
+  "name": "Oxylite"
  },
  {
   "id": "PalmWood",
@@ -1505,6 +1875,11 @@
   "name": "Phosphorus Gas"
  },
  {
+  "id": "PhytoOil",
+  "cat": "material",
+  "name": "Phyto Oil"
+ },
+ {
   "id": "Polypropylene",
   "cat": "material",
   "name": "Polypropylene"
@@ -1528,6 +1903,11 @@
   "id": "RefinedCarbon",
   "cat": "material",
   "name": "Refined Carbon"
+ },
+ {
+  "id": "RefinedLipid",
+  "cat": "material",
+  "name": "Biodiesel"
  },
  {
   "id": "Regolith",
@@ -1580,7 +1960,7 @@
   "name": "Sand Cement"
  },
  {
-  "id": "Sandstone",
+  "id": "SandStone",
   "cat": "material",
   "name": "Sandstone"
  },
@@ -1595,7 +1975,7 @@
   "name": "Shale"
  },
  {
-  "id": "Siltstone",
+  "id": "SiltStone",
   "cat": "material",
   "name": "Siltstone"
  },
@@ -1680,9 +2060,19 @@
   "name": "Solid Propane"
  },
  {
+  "id": "SolidResin",
+  "cat": "material",
+  "name": "Solid Sap"
+ },
+ {
   "id": "SolidSuperCoolant",
   "cat": "material",
   "name": "SolidSuperCoolant"
+ },
+ {
+  "id": "SolidSyngas",
+  "cat": "material",
+  "name": "SolidSyngas"
  },
  {
   "id": "SolidViscoGel",
@@ -1720,6 +2110,11 @@
   "name": "Sucrose"
  },
  {
+  "id": "SugarWater",
+  "cat": "material",
+  "name": "Nectar"
+ },
+ {
   "id": "Sulfur",
   "cat": "material",
   "name": "Sulfur"
@@ -1743,6 +2138,11 @@
   "id": "SuperInsulator",
   "cat": "material",
   "name": "Insulite"
+ },
+ {
+  "id": "Syngas",
+  "cat": "material",
+  "name": "Molten Synthesis Gas"
  },
  {
   "id": "Tallow",
@@ -1900,14 +2300,14 @@
   "name": "Alveo Vera Seed"
  },
  {
-  "id": "BulbPlantSeed",
-  "cat": "seed",
-  "name": "Buddy Bud Seed"
- },
- {
   "id": "BulbloomSeed",
   "cat": "seed",
   "name": "Bulbloom Seed"
+ },
+ {
+  "id": "BulbPlantSeed",
+  "cat": "seed",
+  "name": "Buddy Bud Seed"
  },
  {
   "id": "CactusPlantSeed",
@@ -1980,6 +2380,11 @@
   "name": "Lura Seed"
  },
  {
+  "id": "ForestTreeSeed",
+  "cat": "seed",
+  "name": "ForestTreeSeed"
+ },
+ {
   "id": "GardenDecorPlantSeed",
   "cat": "seed",
   "name": "Rosebush Seed"
@@ -2013,6 +2418,11 @@
   "id": "LeafyPlantSeed",
   "cat": "seed",
   "name": "Mirth Leaf Seed"
+ },
+ {
+  "id": "MushroomSeed",
+  "cat": "seed",
+  "name": "MushroomSeed"
  },
  {
   "id": "OxyCoralSeed",

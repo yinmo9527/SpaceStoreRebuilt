@@ -15,6 +15,11 @@
     "quantity": 5000
   },
   {
+    "id": "AlgaeStego",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "AlgaeStegoEgg",
     "price": 240,
     "quantity": 2
@@ -43,11 +48,6 @@
     "id": "Antihistamine",
     "price": 135,
     "quantity": 3
-  },
-  {
-    "id": "Bammoth",
-    "price": 360,
-    "quantity": 1
   },
   {
     "id": "Basalt",
@@ -110,6 +110,11 @@
     "quantity": 3
   },
   {
+    "id": "Bee",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "BerryPie",
     "price": 60,
     "quantity": 10
@@ -130,12 +135,112 @@
     "quantity": 3
   },
   {
+    "id": "Booster_Art1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Carry1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Construct1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Cook1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Dig1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Dig2",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Farm1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Medicine1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Mod_Swim",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Op1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Op2",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Pilot1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_PilotVanilla1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Ranch1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Research1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Research2",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Research3",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Suits1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
+    "id": "Booster_Tidy1",
+    "price": 360,
+    "quantity": 3
+  },
+  {
     "id": "Brick",
     "price": 40,
     "quantity": 5000
   },
   {
     "id": "Brine",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
+    "id": "BrineIce",
     "price": 40,
     "quantity": 5000
   },
@@ -218,6 +323,11 @@
     "id": "Ceramic",
     "price": 720,
     "quantity": 500
+  },
+  {
+    "id": "Chameleon",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "ChameleonEgg",
@@ -345,6 +455,11 @@
     "quantity": 1
   },
   {
+    "id": "CrabFreshWaterEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "CrabShell",
     "price": 90,
     "quantity": 20
@@ -355,9 +470,19 @@
     "quantity": 1
   },
   {
+    "id": "CrabWoodEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "CritterTrapPlantSeed",
     "price": 225,
     "quantity": 3
+  },
+  {
+    "id": "CrudeOil",
+    "price": 40,
+    "quantity": 5000
   },
   {
     "id": "CrushedIce",
@@ -455,6 +580,36 @@
     "quantity": 5000
   },
   {
+    "id": "DisposableElectrobank_RawMetal",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "DisposableElectrobank_UraniumOre",
+    "price": 90,
+    "quantity": 20
+  },
+  {
+    "id": "DivergentBeetle",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "DivergentBeetleEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "DivergentWorm",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "DivergentWormEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "Drecko",
     "price": 360,
     "quantity": 1
@@ -470,6 +625,11 @@
     "quantity": 1
   },
   {
+    "id": "DreckoPlasticEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "Edamame",
     "price": 60,
     "quantity": 10
@@ -481,11 +641,6 @@
   },
   {
     "id": "Electrobank",
-    "price": 90,
-    "quantity": 20
-  },
-  {
-    "id": "ElectrobankSelfCharging",
     "price": 90,
     "quantity": 20
   },
@@ -580,11 +735,6 @@
     "quantity": 500
   },
   {
-    "id": "Flox",
-    "price": 360,
-    "quantity": 1
-  },
-  {
     "id": "FlyTrapPlantSeed",
     "price": 225,
     "quantity": 3
@@ -595,9 +745,19 @@
     "quantity": 10
   },
   {
+    "id": "FoolsGold",
+    "price": 720,
+    "quantity": 500
+  },
+  {
     "id": "ForestForagePlant",
     "price": 60,
     "quantity": 10
+  },
+  {
+    "id": "ForestTreeSeed",
+    "price": 225,
+    "quantity": 3
   },
   {
     "id": "Fossil",
@@ -685,6 +845,11 @@
     "quantity": 500
   },
   {
+    "id": "GlassDeer",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "GlassDeerEgg",
     "price": 240,
     "quantity": 2
@@ -705,9 +870,19 @@
     "quantity": 500
   },
   {
+    "id": "GoldBelly",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "GoldBellyCrown",
     "price": 90,
     "quantity": 20
+  },
+  {
+    "id": "GoldBellyEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "GoldGas",
@@ -765,14 +940,29 @@
     "quantity": 1
   },
   {
+    "id": "HatchHardEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "HatchMetal",
     "price": 360,
     "quantity": 1
   },
   {
+    "id": "HatchMetalEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "HatchVeggie",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "HatchVeggieEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "Helium",
@@ -788,6 +978,11 @@
     "id": "Ice",
     "price": 40,
     "quantity": 5000
+  },
+  {
+    "id": "IceBelly",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "IceBellyEgg",
@@ -910,14 +1105,29 @@
     "quantity": 1
   },
   {
+    "id": "LightBugBlackEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "LightBugBlue",
     "price": 360,
     "quantity": 1
   },
   {
+    "id": "LightBugBlueEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "LightBugCrystal",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "LightBugCrystalEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "LightBugEgg",
@@ -930,14 +1140,29 @@
     "quantity": 1
   },
   {
+    "id": "LightBugOrangeEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "LightBugPink",
     "price": 360,
     "quantity": 1
   },
   {
+    "id": "LightBugPinkEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "LightBugPurple",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "LightBugPurpleEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "Lime",
@@ -1040,6 +1265,16 @@
     "quantity": 500
   },
   {
+    "id": "MilkFat",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "MilkIce",
+    "price": 720,
+    "quantity": 500
+  },
+  {
     "id": "Mole",
     "price": 360,
     "quantity": 1
@@ -1048,6 +1283,11 @@
     "id": "MoleDelicacy",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "MoleDelicacyEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "MoleEgg",
@@ -1125,6 +1365,11 @@
     "quantity": 500
   },
   {
+    "id": "MoltenSyngas",
+    "price": 40,
+    "quantity": 5000
+  },
+  {
     "id": "MoltenTungsten",
     "price": 1000,
     "quantity": 100
@@ -1141,6 +1386,11 @@
   },
   {
     "id": "Moo",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "Mosquito",
     "price": 360,
     "quantity": 1
   },
@@ -1178,6 +1428,11 @@
     "id": "Mushroom",
     "price": 60,
     "quantity": 10
+  },
+  {
+    "id": "MushroomSeed",
+    "price": 225,
+    "quantity": 3
   },
   {
     "id": "MushroomWrap",
@@ -1260,6 +1515,11 @@
     "quantity": 1
   },
   {
+    "id": "OilfloaterDecorEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "OilfloaterEgg",
     "price": 60,
     "quantity": 10
@@ -1268,6 +1528,11 @@
     "id": "OilfloaterHighTemp",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "OilfloaterHighTempEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "OrbitalResearchDatabank",
@@ -1305,6 +1570,11 @@
     "quantity": 1
   },
   {
+    "id": "PacuCleanerEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "PacuEgg",
     "price": 240,
     "quantity": 2
@@ -1315,6 +1585,11 @@
     "quantity": 1
   },
   {
+    "id": "PacuTropicalEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "PalmWood",
     "price": 720,
     "quantity": 500
@@ -1323,6 +1598,11 @@
     "id": "Pancakes",
     "price": 60,
     "quantity": 10
+  },
+  {
+    "id": "ParrotFish",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "ParrotFishEgg",
@@ -1373,6 +1653,11 @@
     "id": "PhosphorusGas",
     "price": 40,
     "quantity": 5000
+  },
+  {
+    "id": "PhytoOil",
+    "price": 720,
+    "quantity": 500
   },
   {
     "id": "PickledMeal",
@@ -1430,6 +1715,11 @@
     "quantity": 20
   },
   {
+    "id": "PrehistoricPacu",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "PrehistoricPacuEgg",
     "price": 240,
     "quantity": 2
@@ -1460,6 +1750,11 @@
     "quantity": 5000
   },
   {
+    "id": "PufferFish",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "PufferFishEgg",
     "price": 240,
     "quantity": 2
@@ -1475,9 +1770,19 @@
     "quantity": 1
   },
   {
+    "id": "PuftAlphaEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "PuftBleachstone",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "PuftBleachstoneEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "PuftEgg",
@@ -1488,6 +1793,11 @@
     "id": "PuftOxylite",
     "price": 360,
     "quantity": 1
+  },
+  {
+    "id": "PuftOxyliteEgg",
+    "price": 240,
+    "quantity": 2
   },
   {
     "id": "Quiche",
@@ -1516,6 +1826,11 @@
   },
   {
     "id": "RefinedCarbon",
+    "price": 720,
+    "quantity": 500
+  },
+  {
+    "id": "RefinedLipid",
     "price": 720,
     "quantity": 500
   },
@@ -1605,9 +1920,14 @@
     "quantity": 5000
   },
   {
-    "id": "Sandstone",
+    "id": "SandStone",
     "price": 40,
     "quantity": 5000
+  },
+  {
+    "id": "SeaHorse",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "SeaHorseEgg",
@@ -1623,6 +1943,11 @@
     "id": "SeaTreeSeed",
     "price": 225,
     "quantity": 3
+  },
+  {
+    "id": "SeaTurtle",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "SeaTurtleEgg",
@@ -1645,6 +1970,11 @@
     "quantity": 5000
   },
   {
+    "id": "SelfChargingElectrobank",
+    "price": 90,
+    "quantity": 20
+  },
+  {
     "id": "Shale",
     "price": 40,
     "quantity": 5000
@@ -1655,7 +1985,7 @@
     "quantity": 10
   },
   {
-    "id": "Siltstone",
+    "id": "SiltStone",
     "price": 40,
     "quantity": 5000
   },
@@ -1680,7 +2010,22 @@
     "quantity": 10
   },
   {
+    "id": "Snail",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "SnailEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "SnailIron",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "SnailIronEgg",
     "price": 240,
     "quantity": 2
   },
@@ -1765,9 +2110,19 @@
     "quantity": 5000
   },
   {
+    "id": "SolidResin",
+    "price": 720,
+    "quantity": 500
+  },
+  {
     "id": "SolidSuperCoolant",
     "price": 1000,
     "quantity": 100
+  },
+  {
+    "id": "SolidSyngas",
+    "price": 40,
+    "quantity": 5000
   },
   {
     "id": "SolidViscoGel",
@@ -1805,6 +2160,11 @@
     "quantity": 10
   },
   {
+    "id": "Squid",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "SquidEgg",
     "price": 240,
     "quantity": 2
@@ -1820,6 +2180,16 @@
     "quantity": 1
   },
   {
+    "id": "SquirrelAquatic",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "SquirrelAquaticEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "SquirrelEgg",
     "price": 240,
     "quantity": 2
@@ -1830,12 +2200,42 @@
     "quantity": 1
   },
   {
+    "id": "SquirrelHugEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
     "id": "StableSnow",
     "price": 40,
     "quantity": 5000
   },
   {
+    "id": "Staterpillar",
+    "price": 360,
+    "quantity": 1
+  },
+  {
     "id": "StaterpillarEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "StaterpillarGas",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "StaterpillarGasEgg",
+    "price": 240,
+    "quantity": 2
+  },
+  {
+    "id": "StaterpillarLiquid",
+    "price": 360,
+    "quantity": 1
+  },
+  {
+    "id": "StaterpillarLiquidEgg",
     "price": 240,
     "quantity": 2
   },
@@ -1873,6 +2273,11 @@
     "id": "Sucrose",
     "price": 720,
     "quantity": 500
+  },
+  {
+    "id": "SugarWater",
+    "price": 40,
+    "quantity": 5000
   },
   {
     "id": "Sulfur",
@@ -1933,6 +2338,11 @@
     "id": "SwampLilySeed",
     "price": 225,
     "quantity": 3
+  },
+  {
+    "id": "Syngas",
+    "price": 40,
+    "quantity": 5000
   },
   {
     "id": "TableSalt",
@@ -2040,9 +2450,9 @@
     "quantity": 3000
   },
   {
-    "id": "Wood",
-    "price": 90,
-    "quantity": 20
+    "id": "WoodDeer",
+    "price": 360,
+    "quantity": 1
   },
   {
     "id": "WoodDeerEgg",
